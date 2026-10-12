@@ -1,0 +1,1362 @@
+[
+  {
+    "id": "guarani",
+    "name": "Argolebias guarani",
+    "aliases": [],
+    "countries": [
+      "Argentina"
+    ],
+    "region": "latinoamerica",
+    "range": "Misiones, Argentina · cuenca media del Paraná",
+    "cycle": "Anual",
+    "short": "Charcos estacionales de la selva misionera. Especie descrita en 2023.",
+    "detail": "Habita charcas estacionales del norte de Misiones, en la cuenca media del Paraná. Los machos presentan pequeñas manchas verdeazuladas iridiscentes. Cuando el ambiente se seca, los adultos mueren y los huevos permanecen enterrados hasta el regreso del agua. Fue descrito en 2023.",
+    "sources": [
+      {
+        "url": "https://www.conicet.gov.ar/descubren-nueva-especie-de-pez-killi-de-la-lluvia-en-la-selva-misionera/",
+        "label": "CONICET · descubrimiento y fotografías",
+        "claims": [
+          "Descripción de Argolebias guarani en 2023; charcas del norte de Misiones en la cuenca media del Paraná.",
+          "Los machos presentan pequeñas manchas verdeazuladas iridiscentes."
+        ],
+        "verified_at": "2026-10-12",
+        "verification": "opened",
+        "locator": "párrafos iniciales y leyenda de fotografía"
+      },
+      {
+        "url": "https://www.mna.gub.uy/innovaportal/file/3419/1/13.final-espanol.pdf",
+        "label": "Serra et al. 2023 · MNHN",
+        "claims": [
+          "Argolebias guarani está incluido en Argolebias junto a nigripinnis y paranaensis."
+        ],
+        "verified_at": "2026-10-12",
+        "verification": "opened",
+        "locator": "pp. 5–6"
+      }
+    ],
+    "photo": {
+      "page_url": "https://www.conicet.gov.ar/descubren-nueva-especie-de-pez-killi-de-la-lluvia-en-la-selva-misionera/",
+      "author": "Pablo Calviño / CONICET",
+      "license": "CC BY 2.5 AR",
+      "license_url": "https://creativecommons.org/licenses/by/2.5/ar/",
+      "asset": "/assets/guarani.6061870d6c10.jpg",
+      "original_url": "https://www.conicet.gov.ar/wp-content/uploads/killifishes-1-720x400.jpg",
+      "license_status": "verified_on_source",
+      "changes": "Redimensionada y comprimida a JPEG."
+    },
+    "reviewed_at": "2026-10-12"
+  },
+  {
+    "id": "wichi",
+    "name": "Amatolebias wichi",
+    "aliases": [
+      "Austrolebias wichi"
+    ],
+    "countries": [
+      "Argentina"
+    ],
+    "region": "latinoamerica",
+    "range": "Salta, Argentina · Chaco semiárido",
+    "cycle": "Anual",
+    "short": "Pez anual de los charcos temporarios del Chaco semiárido salteño.",
+    "detail": "Es endémico de la región del Chaco semiárido en Salta y vive en charcos temporarios de la cuenca del Bermejo. Antes se lo conocía como Austrolebias wichi. La revisión de 2023 lo ubicó en Amatolebias, un género cuyo nombre homenajea al naturalista uruguayo Luis Amato.",
+    "sources": [
+      {
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0196261",
+        "label": "Alonso et al. 2018 · descripción original",
+        "claims": [
+          "Austrolebias wichi fue descrito de una charca estacional de la cuenca del Bermejo en el Chaco occidental argentino."
+        ],
+        "verified_at": "2026-10-12",
+        "verification": "opened",
+        "locator": "Abstract"
+      },
+      {
+        "url": "https://www.mna.gub.uy/innovaportal/file/3419/1/13.final-espanol.pdf",
+        "label": "Serra et al. 2023 · MNHN",
+        "claims": [
+          "Amatolebias wichi es la especie tipo de Amatolebias; el nombre honra a Luis H. Amato."
+        ],
+        "verified_at": "2026-10-12",
+        "verification": "opened",
+        "locator": "pp. 6–7"
+      },
+      {
+        "url": "https://www.conicet.gov.ar/descubren-nueva-especie-de-pez-killi-de-la-lluvia-en-la-selva-misionera/",
+        "label": "CONICET · fotografía y endemismo",
+        "claims": [
+          "Endémico del Chaco semiárido de Salta; fotografía acreditada a Felipe Alonso."
+        ],
+        "verified_at": "2026-10-12",
+        "verification": "opened",
+        "locator": "leyenda de fotografía"
+      }
+    ],
+    "photo": {
+      "page_url": "https://www.conicet.gov.ar/descubren-nueva-especie-de-pez-killi-de-la-lluvia-en-la-selva-misionera/",
+      "author": "Felipe Alonso / CONICET",
+      "license": "CC BY 2.5 AR",
+      "license_url": "https://creativecommons.org/licenses/by/2.5/ar/",
+      "asset": "/assets/wichi.0c7afccdbddc.jpg",
+      "original_url": "https://www.conicet.gov.ar/wp-content/uploads/Alonso-3-Amatolebias-wichi-720x400.jpg",
+      "license_status": "verified_on_source",
+      "changes": "Redimensionada y comprimida a JPEG."
+    },
+    "reviewed_at": "2026-10-12"
+  },
+  {
+    "id": "nigripinnis",
+    "name": "Argolebias nigripinnis",
+    "aliases": [
+      "Austrolebias nigripinnis",
+      "Cynolebias nigripinnis"
+    ],
+    "countries": [
+      "Argentina",
+      "Uruguay"
+    ],
+    "region": "latinoamerica",
+    "range": "Argentina y Uruguay · registros ilustrados en Buenos Aires y Colonia",
+    "cycle": "Anual",
+    "short": "Otro killi autóctono. También conocido como Austrolebias nigripinnis.",
+    "detail": "Es un pez anual sudamericano asociado a aguas temporales. El SIB de Parques Nacionales lo registra como Argolebias nigripinnis y conserva Austrolebias nigripinnis entre sus sinónimos.",
+    "sources": [
+      {
+        "url": "https://sib.gob.ar/especies/argolebias-nigripinnis",
+        "label": "SIB · Parques Nacionales",
+        "claims": [
+          "Nombre Argolebias nigripinnis; Austrolebias nigripinnis es sinónimo; origen autóctono en Argentina."
+        ],
+        "verified_at": "2026-10-12",
+        "verification": "opened"
+      },
+      {
+        "url": "https://www.mna.gub.uy/innovaportal/file/3419/1/13.final-espanol.pdf",
+        "label": "Serra et al. 2023 · MNHN",
+        "claims": [
+          "Argolebias nigripinnis es especie tipo de Argolebias; la figura 2 documenta ejemplares de Buenos Aires y Colonia, Uruguay."
+        ],
+        "verified_at": "2026-10-12",
+        "verification": "opened",
+        "locator": "p. 5, figura 2"
+      }
+    ],
+    "photo": {
+      "page_url": "https://commons.wikimedia.org/wiki/File:Austrolebias_nigripinnis992.jpg",
+      "author": "Catxx",
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0/",
+      "asset": "/assets/nigripinnis.c609771fe23e.jpg",
+      "license_status": "verified_previous_research",
+      "changes": "Redimensionada y comprimida a JPEG."
+    },
+    "reviewed_at": "2026-10-12",
+    "review_notes": [
+      {
+        "field": "countries",
+        "note": "CAS spid13599 indexado incluye también Brasil y Paraguay. La página devolvió403. Patch se limita a Argentina y Uruguay documentados por SIB y figura2MNHN; la lista no se declara exhaustiva.",
+        "url": "https://researcharchive.calacademy.org/research/ichthyology/catalog/fishcatget.asp?spid=13599"
+      }
+    ]
+  },
+  {
+    "id": "bellottii",
+    "name": "Austrolebias bellottii",
+    "aliases": [
+      "Cynolebias bellottii"
+    ],
+    "countries": [
+      "Argentina",
+      "Uruguay"
+    ],
+    "region": "latinoamerica",
+    "range": "Argentina y Uruguay · cuenca baja del Río de la Plata",
+    "cycle": "Anual",
+    "short": "Killi anual de la cuenca baja del Río de la Plata y planicies costeras próximas.",
+    "detail": "Austrolebias bellottii se distribuye en Argentina y Uruguay, en la cuenca baja del Río de la Plata y planicies costeras adyacentes al sur. El nombre permanece en Austrolebias tras la revisión de 2023. La fotografía proviene de un registro de campo de Romi Galeota Lencina.",
+    "sources": [
+      {
+        "url": "https://researcharchive.calacademy.org/research/ichthyology/catalog/fishcatget.asp?spid=13593",
+        "label": "Eschmeyer’s Catalog of Fishes",
+        "claims": [
+          "Austrolebias bellottii es el nombre válido; distribución en Argentina y Uruguay, cuenca baja del Río de la Plata y planicies costeras adyacentes al sur."
+        ],
+        "verified_at": "2026-10-12",
+        "verification": "opened"
+      },
+      {
+        "url": "https://www.mna.gub.uy/innovaportal/file/3419/1/13.final-espanol.pdf",
+        "label": "Serra et al. 2023 · MNHN",
+        "claims": [
+          "Austrolebias bellottii integra Austrolebias en sentido estricto, dentro del grupo de killis de ambientes temporarios."
+        ],
+        "verified_at": "2026-10-12",
+        "verification": "opened",
+        "locator": "pp. 9–11"
+      }
+    ],
+    "photo": {
+      "page_url": "https://commons.wikimedia.org/wiki/File:Austrolebias_bellottii_102683893.jpg",
+      "author": "Romi Galeota Lencina",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "asset": "/assets/bellottii.37480bc34317.jpg",
+      "license_status": "verified_on_source",
+      "changes": "Redimensionada y comprimida a JPEG."
+    },
+    "reviewed_at": "2026-10-12"
+  },
+  {
+    "id": "elongatus",
+    "name": "Titanolebias elongatus",
+    "aliases": [
+      "Austrolebias elongatus",
+      "Megalebias elongatus",
+      "Cynolebias elongatus"
+    ],
+    "countries": [
+      "Argentina",
+      "Uruguay"
+    ],
+    "region": "latinoamerica",
+    "range": "Argentina y Uruguay · cuenca baja del Río de la Plata",
+    "cycle": "Anual",
+    "short": "Killi anual de mayor tamaño de la cuenca baja del Río de la Plata.",
+    "detail": "Su distribución comprende la cuenca baja del Río de la Plata, en Argentina y Uruguay. La revisión de 2023 lo trasladó de Austrolebias a Titanolebias. Es parte del grupo de peces anuales sudamericanos que deposita sus huevos en el sustrato de ambientes temporarios.",
+    "sources": [
+      {
+        "url": "https://researcharchive.calacademy.org/research/ichthyology/catalog/fishcatget.asp?spid=13594",
+        "label": "Eschmeyer’s Catalog of Fishes",
+        "claims": [
+          "Nombre válido Titanolebias elongatus; distribución en la cuenca baja del Río de la Plata, Argentina y Uruguay."
+        ],
+        "verified_at": "2026-10-12",
+        "verification": "opened"
+      },
+      {
+        "url": "https://www.mna.gub.uy/innovaportal/file/3419/1/13.final-espanol.pdf",
+        "label": "Serra et al. 2023 · MNHN",
+        "claims": [
+          "La revisión de 2023 sitúa elongatus en Titanolebias."
+        ],
+        "verified_at": "2026-10-12",
+        "verification": "opened",
+        "locator": "sección Titanolebias"
+      }
+    ],
+    "photo": {
+      "page_url": "https://commons.wikimedia.org/wiki/File:Austrolebias_elongatus_52188057.jpg",
+      "author": "Leonel Roget",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "asset": "/assets/elongatus.4350f734bd26.jpg",
+      "original_url": "https://www.inaturalist.org/photos/52188057",
+      "license_status": "verified_previous_research",
+      "changes": "Redimensionada y comprimida a JPEG."
+    },
+    "reviewed_at": "2026-10-12"
+  },
+  {
+    "id": "alexandri",
+    "name": "Matilebias alexandri",
+    "aliases": [
+      "Austrolebias alexandri",
+      "Cynolebias alexandri"
+    ],
+    "countries": [
+      "Argentina",
+      "Brasil",
+      "Uruguay"
+    ],
+    "region": "latinoamerica",
+    "range": "Argentina, Brasil y Uruguay · cuenca del río Uruguay",
+    "cycle": "Anual",
+    "short": "Cuenca del río Uruguay, con registros en Entre Ríos. Antes: Austrolebias alexandri.",
+    "detail": "Es una especie de la cuenca del río Uruguay, presente en Argentina, Brasil y Uruguay. Los autores de la revisión de 2023 ilustran ejemplares de Entre Ríos. Su nombre actualizado es Matilebias alexandri; las fichas antiguas pueden usar Austrolebias alexandri o Cynolebias alexandri.",
+    "sources": [
+      {
+        "url": "https://sib.gob.ar/especies/matilebias-alexandri",
+        "label": "SIB · Parques Nacionales",
+        "claims": [
+          "Nombre Matilebias alexandri; origen autóctono en Argentina y sinónimos Austrolebias/Cynolebias alexandri."
+        ],
+        "verified_at": "2026-10-12",
+        "verification": "opened"
+      },
+      {
+        "url": "https://www.killi-data.org/list-names-encyclopedia.php?Rk_Hist=1232+rel%3D",
+        "label": "Huber · Killi-Data",
+        "claims": [
+          "Nombre vigente Matilebias alexandri; distribución Argentina, Brasil y Uruguay."
+        ],
+        "verified_at": "2026-10-12",
+        "verification": "opened",
+        "locator": "entrada Matilebias alexandri"
+      },
+      {
+        "url": "https://www.mna.gub.uy/innovaportal/file/3419/1/13.final-espanol.pdf",
+        "label": "Serra et al. 2023 · MNHN",
+        "claims": [
+          "Figura 5 ilustra machos y hembras de Matilebias alexandri de Entre Ríos, Argentina."
+        ],
+        "verified_at": "2026-10-12",
+        "verification": "opened",
+        "locator": "p. 8, figura 5"
+      }
+    ],
+    "photo": null,
+    "reviewed_at": "2026-10-12"
+  },
+  {
+    "id": "paraguayensis",
+    "name": "Neofundulus paraguayensis",
+    "aliases": [],
+    "countries": [
+      "Argentina",
+      "Brasil",
+      "Bolivia",
+      "Paraguay"
+    ],
+    "region": "latinoamerica",
+    "range": "Cuenca del río Paraguay · Argentina, Brasil, Bolivia y Paraguay",
+    "cycle": "Ciclo por confirmar",
+    "short": "Un Neofundulus de la cuenca del Paraguay, registrado en Argentina.",
+    "detail": "El Sistema de Información de Biodiversidad argentino lo registra como especie autóctona. Su distribución corresponde a la cuenca del río Paraguay e incluye Argentina, Brasil, Bolivia y Paraguay. Neofundulus es un género diferente de Austrolebias; conviene conservar esa distinción al consultar fichas o registrar poblaciones.",
+    "sources": [
+      {
+        "url": "https://sib.gob.ar/especies/neofundulus-paraguayensis",
+        "label": "SIB · Parques Nacionales",
+        "claims": [
+          "Nombre Neofundulus paraguayensis y origen autóctono en Argentina."
+        ],
+        "verified_at": "2026-10-12",
+        "verification": "opened"
+      },
+      {
+        "url": "https://researcharchive.calacademy.org/research/ichthyology/catalog/fishcatget.asp?spid=14127",
+        "label": "Eschmeyer’s Catalog of Fishes",
+        "claims": [
+          "Distribución en la cuenca del Paraguay: Argentina, Brasil, Bolivia y Paraguay."
+        ],
+        "verified_at": "2026-10-12",
+        "verification": "search_index_only; direct_page_403"
+      }
+    ],
+    "photo": null,
+    "reviewed_at": "2026-10-12",
+    "review_notes": [
+      {
+        "field": "countries",
+        "note": "Distribución4países coincidente con CAS indexado; no pude abrir la ficha por403. No marcar esta afirmación como revisión primaria completa.",
+        "url": "https://researcharchive.calacademy.org/research/ichthyology/catalog/fishcatget.asp?spid=14127"
+      }
+    ]
+  },
+  {
+    "id": "adloffi",
+    "name": "Garcialebias adloffi",
+    "aliases": [
+      "Austrolebias adloffi",
+      "Cynolebias adloffi"
+    ],
+    "countries": [
+      "Brasil"
+    ],
+    "region": "latinoamerica",
+    "range": "Sur de Brasil · Rio Grande do Sul",
+    "cycle": "Anual",
+    "short": "Una de las especies incluidas en Garcialebias tras la revisión de 2023.",
+    "detail": "Garcialebias adloffi pertenecía al llamado grupo adloffi, antes ubicado en Austrolebias. La revisión de 2023 lo incluye en Garcialebias. La ficha del Museo Nacional de Historia Natural explica el cambio de clasificación.",
+    "sources": [
+      {
+        "url": "https://www.mna.gub.uy/innovaportal/file/3419/1/13.final-espanol.pdf",
+        "label": "Serra et al. 2023 · MNHN",
+        "claims": [
+          "Garcialebias adloffi se incluye entre las especies de Garcialebias, género creado por la revisión de 2023."
+        ],
+        "verified_at": "2026-10-12",
+        "verification": "opened",
+        "locator": "pp. 21–22"
+      }
+    ],
+    "photo": {
+      "page_url": "https://commons.wikimedia.org/wiki/File:Austrolebias_adloffi_male.jpg",
+      "author": "Luiz R. Malabarba",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "asset": "/assets/adloffi.6fd6396d25e2.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Austrolebias_adloffi_male.jpg",
+      "license_status": "verified_previous_research",
+      "changes": "Redimensionada y comprimida a JPEG."
+    },
+    "reviewed_at": "2026-10-12",
+    "review_notes": [
+      {
+        "field": "range/photo",
+        "note": "No pude abrir Commons adloffi. Brasil/Rio Grande do Sul y crédito/licencia actuales quedan pendientes de corroboración específica; eliminado del detalle el origen Porto Alegre de la foto no corroborado. La clasificación2023 sí se verificó."
+      }
+    ]
+  },
+  {
+    "id": "melanotaenia",
+    "name": "Cynopoecilus melanotaenia",
+    "aliases": [],
+    "countries": [
+      "Brasil",
+      "Uruguay"
+    ],
+    "region": "latinoamerica",
+    "range": "Sur de Brasil y Uruguay · cuencas costeras atlánticas",
+    "cycle": "Anual",
+    "short": "Cuencas costeras del sur de Brasil y Uruguay. Género Cynopoecilus.",
+    "detail": "Está registrado en las cuencas costeras atlánticas del sur de Brasil y Uruguay. Pertenece a Cynopoecilus, un género distinto de Austrolebias y sus grupos derivados. La fotografía muestra un ejemplar de Uruguay.",
+    "sources": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4822079/",
+        "label": "Costa, Amorim & Mattos 2016 · Biodiversity Data Journal",
+        "claims": [
+          "Cynopoecilus melanotaenia es una especie válida del complejo melanotaenia.",
+          "Especie estacional; el género Cynopoecilus presenta inseminación interna.",
+          "El estudio incluye material de Cynopoecilus melanotaenia de Quinta, Rio Grande do Sul, Brasil."
+        ],
+        "verified_at": "2026-10-12",
+        "verification": "opened",
+        "locator": "Introduction; tabla 1"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Cynopoecilus_melanotaenia.jpg",
+        "label": "W.S.Serra · registro fotográfico",
+        "claims": [
+          "La fotografía se describe como ejemplar de Uruguay; autor Wilson Sebastián Serra Alanis; licencia CC BY-SA 4.0."
+        ],
+        "verified_at": "2026-10-12",
+        "verification": "opened",
+        "locator": "Summary y Licensing"
+      },
+      {
+        "url": "https://researcharchive.calacademy.org/research/ichthyology/catalog/fishcatget.asp?spid=13597",
+        "label": "Eschmeyer’s Catalog of Fishes",
+        "claims": [
+          "Distribución en cuencas costeras atlánticas del sur de Brasil y Uruguay."
+        ],
+        "verified_at": "2026-10-12",
+        "verification": "search_index_only; direct_page_403"
+      }
+    ],
+    "photo": {
+      "page_url": "https://commons.wikimedia.org/wiki/File:Cynopoecilus_melanotaenia.jpg",
+      "author": "Wilson Sebastián Serra Alanis (W.S.Serra)",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "asset": "/assets/melanotaenia.45d225890c24.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Cynopoecilus_melanotaenia.jpg",
+      "license_status": "verified_on_source",
+      "changes": "Redimensionada y comprimida a JPEG."
+    },
+    "reviewed_at": "2026-10-12"
+  },
+  {
+    "id": "queguay",
+    "name": "Austrolebias queguay",
+    "aliases": [],
+    "countries": [
+      "Uruguay"
+    ],
+    "region": "latinoamerica",
+    "range": "Uruguay · humedales del río Queguay, Paysandú",
+    "cycle": "Anual",
+    "short": "Killi anual de los humedales del río Queguay, en Paysandú.",
+    "detail": "Austrolebias queguay fue descrito por Serra y Loureiro en 2018 como un pez anual de la cuenca baja del río Uruguay. La figura de distribución del estudio documenta sus registros en Uruguay. En la revisión de 2023 permanece incluido en Austrolebias.",
+    "sources": [
+      {
+        "url": "https://zenodo.org/records/1734257",
+        "label": "Serra & Loureiro 2018 · figura 6",
+        "claims": [
+          "Descripción de Austrolebias queguay en 2018; pez anual endémico de la cuenca baja del río Uruguay.",
+          "La figura 6 documenta su distribución en la cuenca del Uruguay."
+        ],
+        "verified_at": "2026-10-12",
+        "verification": "opened",
+        "locator": "título y descripción"
+      },
+      {
+        "url": "https://www.mna.gub.uy/innovaportal/file/3419/1/13.final-espanol.pdf",
+        "label": "Serra et al. 2023 · MNHN",
+        "claims": [
+          "Austrolebias queguay permanece incluido en Austrolebias."
+        ],
+        "verified_at": "2026-10-12",
+        "verification": "opened",
+        "locator": "p. 11"
+      }
+    ],
+    "photo": {
+      "page_url": "https://commons.wikimedia.org/wiki/File:Austrolebias_queguay.jpg",
+      "author": "Marcelo Loureiro",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "asset": "/assets/queguay.35fc92d20a92.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Austrolebias_queguay.jpg",
+      "license_status": "verified_previous_research",
+      "changes": "Redimensionada y comprimida a JPEG."
+    },
+    "reviewed_at": "2026-10-12",
+    "review_notes": [
+      {
+        "field": "photo",
+        "note": "No pude abrir Commons queguay; eliminado del detalle el carácter paratipo de la foto no corroborado. Taxonomía/ciclo/distribución se verificaron en fuentes abiertas."
+      }
+    ]
+  },
+  {
+    "id": "rachovii",
+    "name": "Nothobranchius rachovii",
+    "aliases": [],
+    "countries": [
+      "Mozambique"
+    ],
+    "region": "africa",
+    "range": "Mozambique · sudeste de África",
+    "cycle": "Anual",
+    "short": "Puestas en sustrato y huevos que atraviesan la estación seca.",
+    "detail": "Nothobranchius rachovii es una especie africana de Mozambique. Su localidad tipo es Beira. Es uno de los Nothobranchius anuales del hobby; la guía enlazada describe el ciclo del género, no una receta de incubación exclusiva para esta especie.",
+    "sources": [
+      {
+        "url": "https://researcharchive.calacademy.org/research/ichthyology/catalog/fishcatget.asp?spid=13698",
+        "label": "Eschmeyer’s Catalog of Fishes",
+        "claims": [
+          "Nombre válido Nothobranchius rachovii Ahl 1926; distribución en Mozambique, sudeste de África; localidad tipo Beira."
+        ],
+        "verified_at": "2026-10-12",
+        "verification": "opened"
+      },
+      {
+        "url": "https://aka.org/aka-public-library/library-species/the-genus-nothobranchius/",
+        "label": "American Killifish Association · guía de género",
+        "claims": [
+          "Biología anual de Nothobranchius; este recurso describe el género y no fija parámetros de cría específicos de rachovii."
+        ],
+        "verified_at": "2026-10-12",
+        "verification": "opened",
+        "locator": "guía del género"
+      }
+    ],
+    "photo": {
+      "page_url": "https://acquariofiliaconsapevole.it/media_nothobranchius-rachovii-hristov",
+      "author": "Hristo Hristov",
+      "license": null,
+      "license_url": null,
+      "asset": "/assets/rachovii.61aa8561318a.jpg",
+      "license_status": "permission_not_verified",
+      "rights_note": "La fuente acredita al fotógrafo, pero no se encontró una licencia explícita de reutilización. No presentar como foto libre.",
+      "changes": "Redimensionada y comprimida a JPEG."
+    },
+    "reviewed_at": "2026-10-12",
+    "review_notes": [
+      {
+        "field": "photo",
+        "note": "Hero frontal Hristo Hristov: preservadoasset, licencia pendiente. AlternativasCC encontradas no han sido revisadas visualmente como frontales."
+      }
+    ]
+  },
+  {
+    "id": "gardneri",
+    "name": "Fundulopanchax gardneri",
+    "aliases": [],
+    "countries": [
+      "Nigeria"
+    ],
+    "region": "africa",
+    "range": "Nigeria · cuencas Cross y Benue",
+    "cycle": "Puestas en mopas",
+    "short": "Machos azul verdoso con manchas rojas. Puestas en mopas.",
+    "detail": "La ficha de la forma nominal Fundulopanchax gardneri gardneri documenta poblaciones de Nigeria en las cuencas Cross y Benue. Las guías del hobby pueden reunir bajo gardneri distintas formas y poblaciones; esta ficha conserva el alcance nominal. La experiencia de cría enlazada describe puesta en mopas superiores e inferiores.",
+    "sources": [
+      {
+        "url": "https://researcharchive.calacademy.org/research/ichthyology/catalog/fishcatget.asp?spid=14234",
+        "label": "Eschmeyer’s Catalog of Fishes",
+        "claims": [
+          "Nombre válido Fundulopanchax gardneri; distribución consignada por el catálogo en Nigeria."
+        ],
+        "verified_at": "2026-10-12",
+        "verification": "opened"
+      },
+      {
+        "url": "https://aka.org/wak/Ref_Library/Fundulopanchax/Fp.gar.gar.htm",
+        "label": "American Killifish Association · gardneri gardneri",
+        "claims": [
+          "La forma nominal se documenta en Nigeria, cuencas Cross y Benue.",
+          "La ficha de cría describe puestas en mopas superiores e inferiores."
+        ],
+        "verified_at": "2026-10-12",
+        "verification": "opened",
+        "locator": "Distribution; Breeding Notes"
+      }
+    ],
+    "photo": {
+      "page_url": "https://commons.wikimedia.org/wiki/File:Fundulopanchax_gardneri.png",
+      "author": "Violaine2",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "asset": "/assets/gardneri.76685f28e39c.jpg",
+      "license_status": "verified_previous_research",
+      "changes": "Redimensionada y comprimida a JPEG."
+    },
+    "reviewed_at": "2026-10-12",
+    "review_notes": [
+      {
+        "field": "countries",
+        "note": "BKA agrega Camerún y otras formas al conjuntogardneri; patch usa alcance nominal sustentado por AKA/CAS. No sustituir con generalizaciones de todo el complejo."
+      }
+    ]
+  },
+  {
+    "id": "australe",
+    "name": "Aphyosemion australe",
+    "aliases": [],
+    "countries": [
+      "Gabón",
+      "República del Congo",
+      "Angola"
+    ],
+    "region": "africa",
+    "range": "Gabón, República del Congo y Angola",
+    "cycle": "No anual",
+    "short": "Cola de lira. La foto muestra la variedad de acuario gold.",
+    "detail": "Aphyosemion australe se distribuye por Gabón y la República del Congo hacia Angola. La guía de aficionados enlazada describe puesta en plantas y mopas. La fotografía muestra la variedad de acuario gold; la variedad de color no constituye otra especie.",
+    "sources": [
+      {
+        "url": "https://researcharchive.calacademy.org/research/ichthyology/catalog/fishcatget.asp?spid=60590",
+        "label": "Eschmeyer’s Catalog of Fishes",
+        "claims": [
+          "Nombre válido Aphyosemion australe; distribución República del Congo, Gabón y hacia el sur hasta Angola."
+        ],
+        "verified_at": "2026-10-12",
+        "verification": "opened"
+      },
+      {
+        "url": "https://www.aka.org/wak/Ref_Library/Aphyosemion/A.australe.htm",
+        "label": "American Killifish Association · australe",
+        "claims": [
+          "La ficha describe puestas en plantas y mopas superiores o inferiores.",
+          "Gold es una variedad de color criada en acuario, no un nombre de especie distinto."
+        ],
+        "verified_at": "2026-10-12",
+        "verification": "opened",
+        "locator": "Distinguishing Characteristics; History; Breeding Notes"
+      }
+    ],
+    "photo": {
+      "page_url": "https://commons.wikimedia.org/wiki/File:Aphyosemion_australe_gold.png",
+      "author": "Violaine Alfero / Violaine2",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "asset": "/assets/australe.b3e1b4df8b5f.jpg",
+      "license_status": "verified_previous_research",
+      "changes": "Redimensionada y comprimida a JPEG."
+    },
+    "reviewed_at": "2026-10-12"
+  },
+  {
+    "id": "bivittatum",
+    "name": "Aphyosemion bivittatum",
+    "aliases": [
+      "Chromaphyosemion bivittatum",
+      "Fundulus bivittatus"
+    ],
+    "countries": [
+      "Nigeria",
+      "Camerún"
+    ],
+    "region": "africa",
+    "range": "Nigeria · Camerún",
+    "cycle": "Puestas en vegetación",
+    "short": "Arroyos sombreados, vegetación y coloraciones según población.",
+    "detail": "Se encuentra en pequeños cursos de agua de la franja costera entre Nigeria y Camerún. En cría puede poner en plantas y mopas flotantes. También lo vas a encontrar bajo el nombre Chromaphyosemion bivittatum.",
+    "sources": [
+      {
+        "url": "https://researcharchive.calacademy.org/research/ichthyology/catalog/fishcatget.asp?spid=32055",
+        "label": "Eschmeyer’s Catalog of Fishes",
+        "claims": [
+          "Nombre aceptado Aphyosemion bivittatum; distribución Nigeria y Camerún; Chromaphyosemion bivittatum es otra combinación usada en la literatura."
+        ],
+        "verified_at": "2026-10-12",
+        "verification": "opened"
+      },
+      {
+        "url": "https://aka.org/wak/Ref_Library/Aphyosemion/A.bivittatum.htm",
+        "label": "American Killifish Association · bivittatum",
+        "claims": [
+          "Hábitats descritos como arroyos y pequeñas corrientes sombreadas.",
+          "Breeding Notes describe puesta en plantas y mopas flotantes; informa experiencias separadas por población."
+        ],
+        "verified_at": "2026-10-12",
+        "verification": "opened",
+        "locator": "Habitat; Breeding Notes"
+      }
+    ],
+    "photo": {
+      "page_url": "https://aka.org/wak/Ref_Library/Aphyosemion/A.bivittatum.htm",
+      "author": "Tony Terceira",
+      "license": null,
+      "license_url": null,
+      "asset": "/assets/bivittatum.5ef5817c29ee.jpg",
+      "license_status": "permission_not_verified",
+      "rights_note": "La fuente acredita al fotógrafo, pero no se encontró una licencia explícita de reutilización. No presentar como foto libre.",
+      "changes": "Redimensionada y comprimida a JPEG."
+    },
+    "reviewed_at": "2026-10-12",
+    "review_notes": [
+      {
+        "field": "photo",
+        "note": "FuenteAKA dice Photo courtesy of Tony Terceira; no licencia explícita ni alternativaCommons localizada."
+      }
+    ]
+  },
+  {
+    "id": "calvinoi",
+    "name": "Titanolebias calvinoi",
+    "countries": [
+      "Argentina"
+    ],
+    "region": "latinoamerica",
+    "short": "Un killi gigante del Chaco húmedo, descubierto en el parque y descrito en 2025.",
+    "detail": "Fue encontrado en humedales temporarios del Parque Nacional Chaco y descrito en 2025. Alcanza alrededor de 10 cm de longitud estándar, sin contar la aleta caudal. Su nombre homenajea al ictiólogo Pablo Calviño. Es un pez anual: sus huevos resisten la etapa seca.",
+    "aliases": [],
+    "range": "Argentina · Parque Nacional Chaco, cuenca del río Negro",
+    "cycle": "Anual",
+    "reviewed_at": "2026-10-12",
+    "sources": [
+      {
+        "url": "https://noasur.conicet.gov.ar/un-pequeno-gigante-en-el-chaco-un-hallazgo-de-una-nueva-especie-de-pez-clave-para-la-biodiversidad-argentina/",
+        "published": "2025-05-13",
+        "accessed_at": "2026-10-12",
+        "claims": [
+          "Especie anual del Parque Nacional Chaco; descubrimiento publicado en 2025; tamaño cercano a 10 cm SL."
+        ],
+        "label": "CONICET · investigación",
+        "verified_at": "2026-10-12",
+        "verification": "opened"
+      },
+      {
+        "url": "https://researcharchive.calacademy.org/research/ichthyology/catalog/fishcatget.asp?spid=78090",
+        "accessed_at": "2026-10-12",
+        "claims": [
+          "Nombre aceptado y distribución Argentina, Parque Nacional Chaco."
+        ],
+        "label": "Catálogo de Peces · nombre y distribución",
+        "verified_at": "2026-10-12",
+        "verification": "opened"
+      }
+    ],
+    "photo": {
+      "asset": "/assets/calvinoi.ce041e475000.jpg",
+      "original_url": "https://noasur.conicet.gov.ar/wp-content/uploads/sites/101/2025/05/1-1.png",
+      "page_url": "https://noasur.conicet.gov.ar/un-pequeno-gigante-en-el-chaco-un-hallazgo-de-una-nueva-especie-de-pez-clave-para-la-biodiversidad-argentina/",
+      "author": "Especialistas a cargo de la investigación / CONICET",
+      "license": "CC BY 2.5 AR",
+      "license_url": "https://creativecommons.org/licenses/by/2.5/ar/",
+      "license_status": "verified_on_source",
+      "changes": "Comprimido a JPEG; sin alterar el ejemplar."
+    }
+  },
+  {
+    "id": "patriciae",
+    "name": "Amatolebias patriciae",
+    "countries": [
+      "Argentina",
+      "Paraguay"
+    ],
+    "region": "latinoamerica",
+    "short": "Un anual chaqueño, hoy ubicado en Amatolebias, con machos de aletas moteadas y prolongaciones visibles.",
+    "detail": "Está registrado en Argentina y Paraguay, en la cuenca del río Paraguay. Es uno de los peces anuales del Chaco oriental. La revisión de 2023 lo ubica en Amatolebias. La fotografía muestra un macho vivo de la localidad tipo, con sus aletas moteadas.",
+    "aliases": [
+      "Austrolebias patriciae",
+      "Cynolebias patriciae"
+    ],
+    "range": "Argentina y Paraguay · cuenca del río Paraguay, Chaco oriental",
+    "cycle": "Anual",
+    "reviewed_at": "2026-10-12",
+    "sources": [
+      {
+        "url": "https://sib.gob.ar/especies/amatolebias-patriciae",
+        "accessed_at": "2026-10-12",
+        "claims": [
+          "Nombre actual Amatolebias patriciae, autóctono de Argentina y alias Austrolebias patriciae."
+        ],
+        "label": "SIB · Parques Nacionales",
+        "verified_at": "2026-10-12",
+        "verification": "opened"
+      },
+      {
+        "url": "https://researcharchive.calacademy.org/research/ichthyology/catalog/fishcatget.asp?spid=63531",
+        "accessed_at": "2026-10-12",
+        "claims": [
+          "Distribución Paraguay y Argentina, cuenca del río Paraguay."
+        ],
+        "label": "Catálogo de Peces · nombre y distribución",
+        "verified_at": "2026-10-12",
+        "verification": "opened"
+      },
+      {
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0196261",
+        "published": "2018-05-16",
+        "accessed_at": "2026-10-12",
+        "claims": [
+          "Especie anual del Chaco oriental; figura 1D identifica especie, sexo, ejemplar vivo y fotógrafo Daniel W. Fromm."
+        ],
+        "label": "PLOS ONE · estudio original",
+        "verified_at": "2026-10-12",
+        "verification": "opened"
+      }
+    ],
+    "photo": {
+      "asset": "/assets/patriciae.918f15f46bf6.jpg",
+      "original_url": "https://journals.plos.org/plosone/article/figure/image?download=&id=10.1371%2Fjournal.pone.0196261.g001&size=large",
+      "page_url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0196261",
+      "author": "Daniel W. Fromm; fotografía publicada por Alonso et al. (2018)",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "license_status": "verified_on_source",
+      "changes": "Recorte del panel D de la figura 1; redimensionado y comprimido a JPEG."
+    }
+  },
+  {
+    "id": "vandenbergi",
+    "name": "Austrolebias vandenbergi",
+    "countries": [
+      "Argentina",
+      "Paraguay",
+      "Bolivia"
+    ],
+    "region": "latinoamerica",
+    "short": "Un anual del Chaco semiárido, con registros argentinos de Salta, Chaco y Formosa.",
+    "detail": "Su distribución pertenece al Chaco semiárido, en Argentina, Paraguay y Bolivia. El estudio de 2016 documentó registros de Salta, Chaco y Formosa y corrigió atribuciones antiguas a Corrientes. El macho fotografiado procede de la cuenca del Bermejo, en Salta. Sigue ubicado en Austrolebias.",
+    "aliases": [
+      "Cynolebias vandenbergi"
+    ],
+    "range": "Argentina, Paraguay y Bolivia · Chaco semiárido",
+    "cycle": "Anual",
+    "reviewed_at": "2026-10-12",
+    "sources": [
+      {
+        "url": "https://biotaxa.org/cl/article/view/12.4.1945",
+        "published": "2016-08-06",
+        "accessed_at": "2026-10-12",
+        "claims": [
+          "Distribución Chaco semiárido de Argentina, Paraguay y Bolivia; ciclo estacional; registros argentinos rectificados; fotografía macho figura 5C, fotógrafo Pablo Calviño."
+        ],
+        "label": "Fuente documentada",
+        "verified_at": "2026-10-12",
+        "verification": "opened"
+      },
+      {
+        "url": "https://sib.gob.ar/especies/austrolebias-vandenbergi",
+        "accessed_at": "2026-10-12",
+        "claims": [
+          "Nombre vigente Austrolebias vandenbergi y origen autóctono argentino."
+        ],
+        "label": "SIB · Parques Nacionales",
+        "verified_at": "2026-10-12",
+        "verification": "opened"
+      },
+      {
+        "url": "https://sedici.unlp.edu.ar/handle/10915/85728?show=full",
+        "accessed_at": "2026-10-12",
+        "claims": [
+          "Repositorio institucional declara licencia CC BY-NC-SA 4.0 para este artículo."
+        ],
+        "label": "SEDICI · artículo y licencia",
+        "verified_at": "2026-10-12",
+        "verification": "opened"
+      }
+    ],
+    "photo": {
+      "asset": "/assets/vandenbergi.603075caeff8.jpg",
+      "original_url": "https://sedici.unlp.edu.ar/bitstream/handle/10915/85728/Documento_completo.15560_12.4.1945.pdf?isAllowed=y&sequence=1",
+      "page_url": "https://sedici.unlp.edu.ar/handle/10915/85728",
+      "author": "Pablo Andrés Calviño",
+      "license": "CC BY-NC-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "license_status": "verified_on_source",
+      "changes": "Recorte del panel C de la figura 5; comprimido a JPEG. Este recorte conserva CC BY-NC-SA 4.0."
+    }
+  },
+  {
+    "id": "monstrosus",
+    "name": "Titanolebias monstrosus",
+    "countries": [
+      "Argentina",
+      "Paraguay",
+      "Bolivia"
+    ],
+    "region": "latinoamerica",
+    "short": "Un gigante del Chaco semiárido: la foto muestra un macho de la cuenca del Bermejo salteño.",
+    "detail": "Es un killi anual del Chaco semiárido, presente en Argentina, Paraguay y Bolivia. El estudio de 2016 revisó su distribución y corrigió registros atribuidos erróneamente a Corrientes. El macho fotografiado proviene del Bermejo, en Salta. Su nombre actualizado es Titanolebias monstrosus.",
+    "aliases": [
+      "Austrolebias monstrosus",
+      "Cynolebias monstrosus",
+      "Megalebias monstrosus"
+    ],
+    "range": "Argentina, Paraguay y Bolivia · Chaco semiárido",
+    "cycle": "Anual",
+    "reviewed_at": "2026-10-12",
+    "sources": [
+      {
+        "url": "https://sib.gob.ar/especies/titanolebias-monstrosus",
+        "accessed_at": "2026-10-12",
+        "claims": [
+          "Nombre actual Titanolebias monstrosus, autóctono de Argentina, alias históricos."
+        ],
+        "label": "SIB · Parques Nacionales",
+        "verified_at": "2026-10-12",
+        "verification": "opened"
+      },
+      {
+        "url": "https://biotaxa.org/cl/article/view/12.4.1945",
+        "published": "2016-08-06",
+        "accessed_at": "2026-10-12",
+        "claims": [
+          "Ciclo anual y distribución en Chaco semiárido de Argentina, Paraguay y Bolivia; figura 5E: macho del Bermejo salteño, fotógrafo Pablo Calviño."
+        ],
+        "label": "Fuente documentada",
+        "verified_at": "2026-10-12",
+        "verification": "opened"
+      },
+      {
+        "url": "https://sedici.unlp.edu.ar/handle/10915/85728?show=full",
+        "accessed_at": "2026-10-12",
+        "claims": [
+          "Licencia explícita CC BY-NC-SA 4.0 del repositorio institucional."
+        ],
+        "label": "SEDICI · artículo y licencia",
+        "verified_at": "2026-10-12",
+        "verification": "opened"
+      }
+    ],
+    "photo": {
+      "asset": "/assets/monstrosus.c7148955d94d.jpg",
+      "original_url": "https://sedici.unlp.edu.ar/bitstream/handle/10915/85728/Documento_completo.15560_12.4.1945.pdf?isAllowed=y&sequence=1",
+      "page_url": "https://sedici.unlp.edu.ar/handle/10915/85728",
+      "author": "Pablo Andrés Calviño",
+      "license": "CC BY-NC-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "license_status": "verified_on_source",
+      "changes": "Recorte del panel E de la figura 5; comprimido a JPEG. Este recorte conserva CC BY-NC-SA 4.0."
+    }
+  },
+  {
+    "id": "balzanii",
+    "name": "Trigonectes balzanii",
+    "countries": [
+      "Argentina",
+      "Brasil",
+      "Bolivia",
+      "Paraguay"
+    ],
+    "region": "latinoamerica",
+    "short": "Un anual del Chaco oriental, documentado en el Parque Nacional Río Pilcomayo, Formosa.",
+    "detail": "Está documentado en el Parque Nacional Río Pilcomayo y sus alrededores, en Formosa. Su distribución abarca la cuenca del río Paraguay, en Argentina, Brasil, Bolivia y Paraguay. Pertenece a Trigonectes, otro género de killis anuales. La ficha amplía el recorrido hacia los humedales chaqueños.",
+    "aliases": [
+      "Haplochilus balzanii"
+    ],
+    "range": "Argentina, Brasil, Bolivia y Paraguay · cuenca del río Paraguay",
+    "cycle": "Anual",
+    "reviewed_at": "2026-10-12",
+    "sources": [
+      {
+        "url": "https://researcharchive.calacademy.org/research/ichthyology/catalog/fishcatget.asp?spid=32225",
+        "accessed_at": "2026-10-12",
+        "claims": [
+          "Nombre aceptado y distribución por países de la cuenca del Paraguay."
+        ],
+        "label": "Catálogo de Peces · nombre y distribución",
+        "verified_at": "2026-10-12",
+        "verification": "opened"
+      },
+      {
+        "url": "https://doi.org/10.15560/10.6.1387",
+        "published": "2014-12-09",
+        "accessed_at": "2026-10-12",
+        "claims": [
+          "Registro y fotografía identificada como especie 69 en inventario primario Río Pilcomayo, Formosa."
+        ],
+        "label": "Fuente documentada",
+        "verified_at": "2026-10-12",
+        "verification": "opened"
+      },
+      {
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0196261",
+        "published": "2018-05-16",
+        "accessed_at": "2026-10-12",
+        "claims": [
+          "Se lo identifica como pez estacional del Chaco oriental."
+        ],
+        "label": "PLOS ONE · estudio original",
+        "verified_at": "2026-10-12",
+        "verification": "opened"
+      }
+    ],
+    "photo": null,
+    "review_notes": [
+      {
+        "field": "photo",
+        "note": "Figura 69, espécimen fotografiado sobre una mano; no se incorpora como imagen visible.",
+        "url": "https://commons.wikimedia.org/wiki/File:Fish_fauna_from_R%C3%ADo_Pilcomayo_National_Park_(6_of_7).png"
+      }
+    ]
+  },
+  {
+    "id": "robustus",
+    "name": "Cypholebias robustus",
+    "countries": [
+      "Argentina"
+    ],
+    "region": "latinoamerica",
+    "short": "Un anual bonaerense, actualmente llamado Cypholebias robustus: nonoiuliensis es uno de sus nombres históricos.",
+    "detail": "Está registrado en Argentina y en la revisión de 2023 aparece asociado a cuencas del Río de la Plata y de la costa bonaerense. Ese trabajo ubica la especie en Cypholebias y trata nonoiuliensis como un sinónimo. Es parte de los killis estacionales de nuestra región.",
+    "aliases": [
+      "Austrolebias robustus",
+      "Cynolebias robustus",
+      "Austrolebias nonoiuliensis",
+      "Cynolebias nonoiuliensis"
+    ],
+    "range": "Argentina · provincia de Buenos Aires, cuencas del Plata y costa atlántica",
+    "cycle": "Anual",
+    "reviewed_at": "2026-10-12",
+    "sources": [
+      {
+        "url": "https://sib.gob.ar/especies/cypholebias-robustus",
+        "accessed_at": "2026-10-12",
+        "claims": [
+          "Nombre vigente Cypholebias robustus, autóctono argentino y sinonimia de nonoiuliensis."
+        ],
+        "label": "SIB · Parques Nacionales",
+        "verified_at": "2026-10-12",
+        "verification": "opened"
+      },
+      {
+        "url": "https://researcharchive.calacademy.org/research/ichthyology/catalog/fishcatget.asp?spid=32203",
+        "accessed_at": "2026-10-12",
+        "claims": [
+          "Distribución argentina, cuenca del Plata."
+        ],
+        "label": "Catálogo de Peces · nombre y distribución",
+        "verified_at": "2026-10-12",
+        "verification": "opened"
+      },
+      {
+        "url": "https://www.mna.gub.uy/innovaportal/file/3419/1/13.final-espanol.pdf",
+        "published": "2023",
+        "accessed_at": "2026-10-12",
+        "claims": [
+          "Ciclo estacional, distribución en Buenos Aires y actualización de género y sinonimia."
+        ],
+        "label": "MNHN · revisión taxonómica",
+        "verified_at": "2026-10-12",
+        "verification": "opened"
+      }
+    ],
+    "photo": null
+  },
+  {
+    "id": "playfairii",
+    "name": "Pachypanchax playfairii",
+    "countries": [
+      "Seychelles"
+    ],
+    "region": "africa",
+    "short": "Un killi del océano Índico, presente en cursos de agua de las Seychelles.",
+    "detail": "Vive en cursos de agua de las islas Seychelles, incluidos ambientes de agua dulce y salobre. El género también reúne especies de Madagascar, pero playfairii tiene su origen en Seychelles. La BKA lo incluye entre los killis no anuales.",
+    "aliases": [
+      "Pachypanchax playfairi",
+      "Haplochilus playfairii"
+    ],
+    "range": "Seychelles",
+    "cycle": "No anual",
+    "reviewed_at": "2026-10-12",
+    "sources": [
+      {
+        "url": "https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=165844",
+        "claims": [
+          "Nombre válido Pachypanchax playfairii"
+        ],
+        "label": "ITIS · nombre científico",
+        "verified_at": "2026-10-12",
+        "verification": "opened"
+      },
+      {
+        "url": "https://www.gbif.org/taxon/4BTH8",
+        "claims": [
+          "Combinaciones anteriores y grafía playfairi"
+        ],
+        "label": "Fuente documentada",
+        "verified_at": "2026-10-12",
+        "verification": "opened"
+      },
+      {
+        "url": "https://killis.org.uk/wp-content/uploads/2023/09/P-playfairii_J-Blanc_0910_22.pdf",
+        "claims": [
+          "Observaciones de campo en Seychelles en agua dulce y salobre"
+        ],
+        "label": "BKA · hábitat y cría",
+        "verified_at": "2026-10-12",
+        "verification": "opened"
+      },
+      {
+        "url": "https://killis.org.uk/beginning-with-killies/",
+        "claims": [
+          "Clasificación no anual"
+        ],
+        "label": "BKA · hábitat y cría",
+        "verified_at": "2026-10-12",
+        "verification": "opened"
+      }
+    ],
+    "photo": null,
+    "review_notes": [
+      {
+        "field": "photo",
+        "note": "Hold: Commons declara own work por KillisBS, pero fotografía incorpora ©Marvin Keimp y no hay perfil que confirme identidad; no incorporar al sitio.",
+        "url": "https://commons.wikimedia.org/wiki/File:Pachypanchax_playfairii_SEY_05,_La_Digue.jpg"
+      }
+    ]
+  },
+  {
+    "id": "annulatus",
+    "name": "Epiplatys annulatus",
+    "countries": [
+      "Guinea",
+      "Liberia",
+      "Sierra Leona"
+    ],
+    "region": "africa",
+    "short": "Bandas claras y oscuras; un pequeño killi que frecuenta la superficie.",
+    "detail": "La BKA describe poblaciones de Sierra Leona y Monrovia en aguas someras y pantanosas. Puede poner en mopas y plantas flotantes; sus huevos y alevines son muy pequeños. Pseudepiplatys annulatus es otro nombre usado en el hobby.",
+    "aliases": [
+      "Pseudepiplatys annulatus",
+      "Haplochilus annulatus",
+      "Clown killi"
+    ],
+    "range": "Guinea · Liberia · Sierra Leona",
+    "cycle": "No anual",
+    "reviewed_at": "2026-10-12",
+    "sources": [
+      {
+        "url": "https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=646908",
+        "claims": [
+          "Nombre válido Epiplatys annulatus; Pseudepiplatys y Haplochilus como sinónimos"
+        ],
+        "label": "ITIS · nombre científico",
+        "verified_at": "2026-10-12",
+        "verification": "opened"
+      },
+      {
+        "url": "https://killis.org.uk/pseudepiplatys-anulatus/",
+        "claims": [
+          "Distribución Sierra Leona/Monrovia, hábitat somero, puesta en plantas y mopas, alevines pequeños"
+        ],
+        "label": "BKA · hábitat y cría",
+        "verified_at": "2026-10-12",
+        "verification": "opened"
+      },
+      {
+        "url": "https://researcharchive.calacademy.org/research/ichthyology/catalog/fishcatget.asp?spid=14237",
+        "claims": [
+          "CAS catálogo actualizado 13 agosto 2026: valid Epiplatys annulatus; distribución Guinea, Liberia y Sierra Leona"
+        ],
+        "access_note": "Contenido íntegro recuperado por búsqueda web oficial; open devolvió HTTP403.",
+        "label": "Catálogo de Peces · nombre y distribución",
+        "verified_at": "2026-10-12",
+        "verification": "opened"
+      }
+    ],
+    "photo": {
+      "asset": "/assets/annulatus.9e8970a56cb5.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Epiplatys_annulatus.JPG",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Epiplatys_annulatus.JPG",
+      "author": "Andrew Bogott; ajuste de imagen por Tommy Kronkvist",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "license_status": "verified_on_source",
+      "changes": "Redimensionada y comprimida a JPEG; sin recorte añadido",
+      "note": "Macho fotografiado bajo la superficie"
+    }
+  },
+  {
+    "id": "guentheri",
+    "name": "Nothobranchius guentheri",
+    "countries": [
+      "Tanzania"
+    ],
+    "region": "africa",
+    "short": "De las aguas estacionales de Unguja, en el archipiélago de Zanzíbar.",
+    "detail": "La revisión de WildNothos limita su distribución natural a charcas estacionales y humedales de Unguja, Tanzania. Describe su ciclo como semianual y el desarrollo de los huevos en turba en cautividad. Las antiguas referencias que incluían otras poblaciones bajo guentheri deben leerse con cuidado.",
+    "aliases": [
+      "Fundulus guentheri",
+      "Redtail notho"
+    ],
+    "range": "Tanzania",
+    "cycle": "Semianual",
+    "reviewed_at": "2026-10-12",
+    "sources": [
+      {
+        "url": "https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=165836",
+        "claims": [
+          "Nombre válido Nothobranchius guentheri"
+        ],
+        "label": "ITIS · nombre científico",
+        "verified_at": "2026-10-12",
+        "verification": "opened"
+      },
+      {
+        "url": "https://wildnothos.wixsite.com/wildnothos/guentheri",
+        "claims": [
+          "Endémico Unguja; humedales estacionales; ciclo semianual; desambiguación histórica respecto melanospilus"
+        ],
+        "label": "WildNothos · revisión de especie",
+        "verified_at": "2026-10-12",
+        "verification": "opened"
+      },
+      {
+        "url": "https://killis.org.uk/nothobranchius-guentheri/",
+        "claims": [
+          "Puesta en turba; texto de 1970, distribución histórica obsoleta no usada"
+        ],
+        "label": "BKA · hábitat y cría",
+        "verified_at": "2026-10-12",
+        "verification": "opened"
+      }
+    ],
+    "photo": {
+      "asset": "/assets/guentheri.87279cabcb4c.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Nothobranchius_guentheri.jpg",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Nothobranchius_guentheri.jpg",
+      "author": "Jokuyken15",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "license_status": "verified_on_source",
+      "changes": "Redimensionada y comprimida a JPEG; sin recorte añadido",
+      "note": "Fotografía etiquetada como N. guentheri en el zoológico Higashiyama; identificación del archivo, no espécimen con código de población"
+    }
+  },
+  {
+    "id": "lineatus",
+    "name": "Aplocheilus lineatus",
+    "countries": [
+      "India",
+      "Sri Lanka"
+    ],
+    "region": "asia",
+    "short": "Un panchax de superficie del sur de Asia; también existe una variedad dorada.",
+    "detail": "La BKA lo registra en India y Sri Lanka, asociado a arroyos y canales. Busca alimento en la superficie y deposita huevos entre plantas flotantes o mopas. La imagen muestra la variedad dorada de acuario, no la coloración silvestre.",
+    "aliases": [
+      "Panchax lineatum",
+      "Golden Wonder",
+      "Panchax rayado"
+    ],
+    "range": "India · Sri Lanka",
+    "cycle": "No anual",
+    "reviewed_at": "2026-10-12",
+    "sources": [
+      {
+        "url": "https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=165709",
+        "claims": [
+          "Nombre válido Aplocheilus lineatus; sinónimo Panchax lineatum"
+        ],
+        "label": "ITIS · nombre científico",
+        "verified_at": "2026-10-12",
+        "verification": "opened"
+      },
+      {
+        "url": "https://killis.org.uk/aplocheilus-lineatus-2/",
+        "claims": [
+          "India y Sri Lanka; arroyos y canales; conducta superficial; puesta en plantas y mopas"
+        ],
+        "label": "BKA · hábitat y cría",
+        "verified_at": "2026-10-12",
+        "verification": "opened"
+      },
+      {
+        "url": "https://killis.org.uk/beginning-with-killies/",
+        "claims": [
+          "No anual"
+        ],
+        "label": "BKA · hábitat y cría",
+        "verified_at": "2026-10-12",
+        "verification": "opened"
+      }
+    ],
+    "photo": {
+      "asset": "/assets/lineatus.50fca1dffd37.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Aplo_male.jpg",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Aplo_male.jpg",
+      "author": "Marrabbio2",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "license_status": "verified_on_source",
+      "changes": "Redimensionada y comprimida a JPEG; sin recorte añadido",
+      "note": "Macho variedad dorada de acuario"
+    }
+  },
+  {
+    "id": "panchax",
+    "name": "Aplocheilus panchax",
+    "countries": [
+      "India",
+      "Myanmar",
+      "Malasia",
+      "Tailandia"
+    ],
+    "region": "asia",
+    "short": "Un panchax asiático que se mantiene cerca de la superficie.",
+    "detail": "Su distribución incluye India y parte del sudeste asiático. La BKA describe puesta entre plantas próximas a la superficie o en mopas flotantes y variación de color según el origen. Conviene conservar el dato de población cuando se conoce.",
+    "aliases": [
+      "Blue panchax",
+      "Panchax azul"
+    ],
+    "range": "India · Myanmar · Malasia · Tailandia",
+    "cycle": "No anual",
+    "reviewed_at": "2026-10-12",
+    "sources": [
+      {
+        "url": "https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=165719",
+        "claims": [
+          "Nombre válido Aplocheilus panchax"
+        ],
+        "label": "ITIS · nombre científico",
+        "verified_at": "2026-10-12",
+        "verification": "opened"
+      },
+      {
+        "url": "https://killis.org.uk/aplocheilus-panchax/",
+        "claims": [
+          "India, Myanmar, Malasia, Tailandia; puesta superficial; variaciones geográficas de color"
+        ],
+        "label": "BKA · hábitat y cría",
+        "verified_at": "2026-10-12",
+        "verification": "opened"
+      },
+      {
+        "url": "https://killis.org.uk/beginning-with-killies/",
+        "claims": [
+          "No anual"
+        ],
+        "label": "BKA · hábitat y cría",
+        "verified_at": "2026-10-12",
+        "verification": "opened"
+      }
+    ],
+    "photo": {
+      "asset": "/assets/panchax.04586d534222.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Aplocheilus_panchax_00849.jpg",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Aplocheilus_panchax_00849.jpg",
+      "author": "Vengolis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "license_status": "verified_on_source",
+      "changes": "Redimensionada y comprimida a JPEG; sin recorte añadido",
+      "note": "Fotografía real evaluada como Quality Image en Commons"
+    }
+  }
+]

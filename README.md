@@ -4,7 +4,9 @@ Front de un proyecto amateur, sin fines comerciales, para aficionados a los kill
 
 La landing explica el proyecto y abre cinco secciones independientes: especies, ciclos de vida, cría, cuaderno de poblaciones y foro. El menú aparece después del hero y queda fijo al llegar al borde superior. La bienvenida presenta el proyecto, una muestra regional y accesos a las secciones. El hero conserva el acercamiento del rachovii con el scroll.
 
-El catálogo incluye 14 especies: 7 con presencia argentina, 3 de otras zonas de Latinoamérica y 4 africanas. Tiene 12 fichas con fotografías reales y 2 fichas documentadas sin foto. Las especies están agrupadas por procedencia, con búsqueda por nombre actual, sinónimo o país, filtros y fuentes enlazadas. El filtro Latinoamérica incluye también las especies argentinas.
+El catálogo incluye 25 especies: 13 con presencia argentina, 3 de otras zonas de Latinoamérica, 7 africanas o de islas del Índico y 2 asiáticas. Tiene 20 fichas con fotografías reales y 5 fichas sin foto. Incluye búsqueda por nombre actual, sinónimo o país, filtros regionales y fuentes por ficha. Latinoamérica incluye también Argentina. Los países mostrados son registros documentados y la lista puede no ser exhaustiva.
+
+En celular, el hero usa una composición en columna y desactiva el parallax; el menú organiza seis secciones en dos columnas y conserva una descripción para cada una.
 
 ## Ejecutar
 
@@ -34,16 +36,21 @@ Referencias: [configuración por archivo](https://docs.railway.com/config-as-cod
 ## Archivos
 
 - `public/index.html`: contenido, diseño y navegación del front.
+- `data/species.json`: base de especies, afirmaciones respaldadas por fuentes, fecha de revisión, sinónimos y derechos de fotografías.
+- `scripts/build-catalog.mjs`: genera catálogo y créditos desde la base, sin dependencias. Ejecutar `node scripts/build-catalog.mjs` después de editar los datos.
 - `public/assets/`: fotografías; el hash del nombre permite cachearlas sin conservar versiones viejas al actualizarlas.
 - `server.mjs`: servidor HTTP de Node, sin frameworks.
 - `Dockerfile` y `railway.json`: despliegue.
 - `tests/server.test.mjs`: comprobaciones HTTP y de los archivos publicados.
 - `tests/ui.test.mjs`: comprobaciones de navegación, estructura, filtros y contraste.
+- `tests/catalog.test.mjs`: integridad de fichas, fuentes y fotografías.
 
 ## Estado del proyecto
 
 El registro es una demostración: no crea cuentas ni almacena contraseñas. Las fichas se conservan únicamente durante la visita y se pierden al recargar. El foro muestra temas de ejemplo y no publica respuestas. El despliegue hospeda este front; no incorpora todavía un backend de usuarios o publicaciones.
 
-Las fotografías y sus licencias/créditos están detallados en **Fuentes y fotografías**, al pie de la página. Esos créditos se mantienen en esta versión.
+Las fotografías y sus licencias/créditos están detallados en **Fuentes y fotografías**, al pie de la página. Se indican los recortes, la compresión y las licencias por imagen. Las fotografías de vandenbergi y monstrosus son CC BY-NC-SA 4.0 y conservan su restricción no comercial. Dos fotografías heredadas (rachovii y bivittatum) tienen autor acreditado pero permiso de reutilización pendiente; no se presentan como imágenes libres.
 
 Se verificaron código, rutas, filtros y la paleta de contraste. La revisión visual completa en navegador continúa pendiente.
+
+La fecha de revisión no certifica todos los campos: `sources[].verification` y `review_notes` conservan las comprobaciones y los pendientes. Los datos de cría describen la fuente o la experiencia citada; no se heredan parámetros ni tiempos de incubación de otra especie.

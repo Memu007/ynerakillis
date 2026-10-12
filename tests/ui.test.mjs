@@ -31,6 +31,9 @@ test('búsqueda por países/sinónimos y filtros Argentina/Latinoamérica',()=>{
   assert(matchesSpecies('africa','Gabón|Congo','Aphyosemion australe Gabón Congo','gabon','africa'));
   assert(!matchesSpecies('africa','Gabón','Aphyosemion australe','Gabon','latinoamerica'));
   assert(!matchesSpecies('latinoamerica','Argentina','Argolebias guarani','inexistente','todos'));
+  assert(matchesSpecies('asia','India|Sri Lanka','Aplocheilus lineatus Golden Wonder India','golden','asia'));
+  assert(!matchesSpecies('africa','Mozambique','Nothobranchius rachovii','','asia'));
+  assert(script.includes('if(reduced.matches||innerWidth<=600)')); 
 });
 
 test('el catálogo tiene grupos ordenados y fichas reales diferenciadas',()=>{
