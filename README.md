@@ -6,7 +6,7 @@ La landing explica el proyecto y abre cinco secciones independientes: especies, 
 
 El catálogo incluye 25 especies: 13 con presencia argentina, 3 de otras zonas de Latinoamérica, 7 africanas o de islas del Índico y 2 asiáticas. Tiene 20 fichas con fotografías reales y 5 fichas sin foto. Incluye búsqueda por nombre actual, sinónimo o país, filtros regionales y fuentes por ficha. Latinoamérica incluye también Argentina. Los países mostrados son registros documentados y la lista puede no ser exhaustiva.
 
-En celular, el hero usa una composición en columna y desactiva el parallax; el menú organiza seis secciones en dos columnas y conserva una descripción para cada una.
+En celular, el hero usa una composición en columna: el pez se acerca con el scroll dentro de su espacio, sin tapar ni desvanecer el texto; el menú organiza seis secciones en dos columnas y conserva una descripción para cada una.
 
 ## Ejecutar
 

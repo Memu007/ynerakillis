@@ -33,7 +33,7 @@ test('búsqueda por países/sinónimos y filtros Argentina/Latinoamérica',()=>{
   assert(!matchesSpecies('latinoamerica','Argentina','Argolebias guarani','inexistente','todos'));
   assert(matchesSpecies('asia','India|Sri Lanka','Aplocheilus lineatus Golden Wonder India','golden','asia'));
   assert(!matchesSpecies('africa','Mozambique','Nothobranchius rachovii','','asia'));
-  assert(script.includes('if(reduced.matches||innerWidth<=600)')); 
+  assert(script.includes('if(reduced.matches){'));  
 });
 
 test('el catálogo tiene grupos ordenados y fichas reales diferenciadas',()=>{
@@ -52,4 +52,16 @@ test('la paleta conserva contraste de texto sobre superficies claras y oscuras',
   for(const [a,b] of pairs){const x=luminance(a),y=luminance(b);assert((Math.max(x,y)+.05)/(Math.min(x,y)+.05)>=4.5,`${a} sobre ${b}`)}
   assert.match(css,/body\{[^}]*color:var\(--text\)/);
   assert.match(css,/\.scene\{[^}]*color:var\(--ink\)/);
+});
+
+test('el pez se acerca al hacer scroll también en celular, sin ocultar el texto',()=>{
+  const context={};vm.createContext(context);
+  const animation=script.slice(script.indexOf('const clamp='),script.indexOf('let scheduled='));
+  vm.runInContext(animation,context);
+  const start=context.swimState(0,390,844),middle=context.swimState(.5,390,844),end=context.swimState(1,390,844);
+  assert(start.scale<middle.scale&&middle.scale<end.scale);
+  assert(end.scale>=2);
+  for(const state of [start,middle,end]){assert.equal(state.copyOpacity,1);assert.equal(state.footerOpacity,1);assert.equal(state.fishOpacity,1);assert.equal(state.x,0)}
+  assert.equal(context.swimState(2,390,844).scale,end.scale);
+  assert.equal(context.swimState(-1,390,844).scale,start.scale);
 });
