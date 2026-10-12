@@ -1,0 +1,12 @@
+{
+  "name": "ynerakillis",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Front de una comunidad amateur de aficionados a los killis",
+  "engines": { "node": ">=24 <25" },
+  "scripts": {
+    "start": "node server.mjs",
+    "test": "node --test"
+  }
+}
