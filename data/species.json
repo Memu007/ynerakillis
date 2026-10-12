@@ -9,8 +9,8 @@
     "region": "latinoamerica",
     "range": "Misiones, Argentina · cuenca media del Paraná",
     "cycle": "Anual",
-    "short": "Charcos estacionales de la selva misionera. Especie descrita en 2023.",
-    "detail": "Habita charcas estacionales del norte de Misiones, en la cuenca media del Paraná. Los machos presentan pequeñas manchas verdeazuladas iridiscentes. Cuando el ambiente se seca, los adultos mueren y los huevos permanecen enterrados hasta el regreso del agua. Fue descrito en 2023.",
+    "short": "Vive en charcas estacionales del norte de Misiones.",
+    "detail": "Habita charcas estacionales en la cuenca media del Paraná. Los machos tienen pequeñas manchas verdeazuladas iridiscentes. Al secarse el ambiente, los adultos mueren y los huevos quedan enterrados hasta que vuelve el agua; la especie fue descrita en 2023.",
     "sources": [
       {
         "url": "https://www.conicet.gov.ar/descubren-nueva-especie-de-pez-killi-de-la-lluvia-en-la-selva-misionera/",
@@ -44,7 +44,11 @@
       "license_status": "verified_on_source",
       "changes": "Redimensionada y comprimida a JPEG."
     },
-    "reviewed_at": "2026-10-12"
+    "reviewed_at": "2026-10-12",
+    "short_en": "It lives in seasonal pools in northern Misiones.",
+    "detail_en": "It inhabits seasonal pools in the middle Paraná basin. Males have small iridescent blue-green spots. When the pools dry, adults die and eggs remain buried until the water returns; the species was described in 2023.",
+    "range_en": "Misiones, Argentina · middle Paraná basin",
+    "cycle_en": "Annual"
   },
   {
     "id": "wichi",
@@ -58,8 +62,8 @@
     "region": "latinoamerica",
     "range": "Salta, Argentina · Chaco semiárido",
     "cycle": "Anual",
-    "short": "Pez anual de los charcos temporarios del Chaco semiárido salteño.",
-    "detail": "Es endémico de la región del Chaco semiárido en Salta y vive en charcos temporarios de la cuenca del Bermejo. Antes se lo conocía como Austrolebias wichi. La revisión de 2023 lo ubicó en Amatolebias, un género cuyo nombre homenajea al naturalista uruguayo Luis Amato.",
+    "short": "Vive en charcos temporarios del Chaco semiárido de Salta.",
+    "detail": "Es endémico de Salta y habita charcos temporarios de la cuenca del Bermejo. Antes se conocía como Austrolebias wichi. En 2023 fue ubicado en Amatolebias, género nombrado en honor al naturalista uruguayo Luis Amato.",
     "sources": [
       {
         "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0196261",
@@ -102,7 +106,11 @@
       "license_status": "verified_on_source",
       "changes": "Redimensionada y comprimida a JPEG."
     },
-    "reviewed_at": "2026-10-12"
+    "reviewed_at": "2026-10-12",
+    "short_en": "It lives in temporary pools in Salta’s semi-arid Chaco.",
+    "detail_en": "It is endemic to Salta and lives in temporary pools in the Bermejo basin. It was formerly known as Austrolebias wichi. In 2023 it was placed in Amatolebias, a genus named in honor of Uruguayan naturalist Luis Amato.",
+    "range_en": "Salta, Argentina · semi-arid Chaco",
+    "cycle_en": "Annual"
   },
   {
     "id": "nigripinnis",
@@ -118,8 +126,8 @@
     "region": "latinoamerica",
     "range": "Argentina y Uruguay · registros ilustrados en Buenos Aires y Colonia",
     "cycle": "Anual",
-    "short": "Otro killi autóctono. También conocido como Austrolebias nigripinnis.",
-    "detail": "Es un pez anual sudamericano asociado a aguas temporales. El SIB de Parques Nacionales lo registra como Argolebias nigripinnis y conserva Austrolebias nigripinnis entre sus sinónimos.",
+    "short": "Killi anual sudamericano, registrado en Argentina y Uruguay.",
+    "detail": "Vive en aguas temporarias de Sudamérica. El nombre aceptado es Argolebias nigripinnis; Austrolebias nigripinnis aparece como sinónimo. Hay ejemplares documentados de Buenos Aires y Colonia.",
     "sources": [
       {
         "url": "https://sib.gob.ar/especies/argolebias-nigripinnis",
@@ -157,7 +165,11 @@
         "note": "CAS spid13599 indexado incluye también Brasil y Paraguay. La página devolvió403. Patch se limita a Argentina y Uruguay documentados por SIB y figura2MNHN; la lista no se declara exhaustiva.",
         "url": "https://researcharchive.calacademy.org/research/ichthyology/catalog/fishcatget.asp?spid=13599"
       }
-    ]
+    ],
+    "short_en": "A South American annual killifish recorded in Argentina and Uruguay.",
+    "detail_en": "It lives in temporary waters in South America. The accepted name is Argolebias nigripinnis; Austrolebias nigripinnis is listed as a synonym. Specimens are documented from Buenos Aires and Colonia.",
+    "range_en": "Argentina and Uruguay · records from Buenos Aires and Colonia",
+    "cycle_en": "Annual"
   },
   {
     "id": "bellottii",
@@ -172,8 +184,8 @@
     "region": "latinoamerica",
     "range": "Argentina y Uruguay · cuenca baja del Río de la Plata",
     "cycle": "Anual",
-    "short": "Killi anual de la cuenca baja del Río de la Plata y planicies costeras próximas.",
-    "detail": "Austrolebias bellottii se distribuye en Argentina y Uruguay, en la cuenca baja del Río de la Plata y planicies costeras adyacentes al sur. El nombre permanece en Austrolebias tras la revisión de 2023. La fotografía proviene de un registro de campo de Romi Galeota Lencina.",
+    "short": "Killi anual de la cuenca baja del Río de la Plata.",
+    "detail": "Se encuentra en Argentina y Uruguay, en la cuenca baja del Río de la Plata y las llanuras costeras cercanas al sur. La revisión de 2023 mantiene la especie en Austrolebias.",
     "sources": [
       {
         "url": "https://researcharchive.calacademy.org/research/ichthyology/catalog/fishcatget.asp?spid=13593",
@@ -204,7 +216,11 @@
       "license_status": "verified_on_source",
       "changes": "Redimensionada y comprimida a JPEG."
     },
-    "reviewed_at": "2026-10-12"
+    "reviewed_at": "2026-10-12",
+    "short_en": "An annual killifish from the lower Río de la Plata basin.",
+    "detail_en": "It occurs in Argentina and Uruguay, in the lower Río de la Plata basin and nearby coastal plains to the south. The 2023 review keeps the species in Austrolebias.",
+    "range_en": "Argentina and Uruguay · lower Río de la Plata basin",
+    "cycle_en": "Annual"
   },
   {
     "id": "elongatus",
@@ -221,8 +237,8 @@
     "region": "latinoamerica",
     "range": "Argentina y Uruguay · cuenca baja del Río de la Plata",
     "cycle": "Anual",
-    "short": "Killi anual de mayor tamaño de la cuenca baja del Río de la Plata.",
-    "detail": "Su distribución comprende la cuenca baja del Río de la Plata, en Argentina y Uruguay. La revisión de 2023 lo trasladó de Austrolebias a Titanolebias. Es parte del grupo de peces anuales sudamericanos que deposita sus huevos en el sustrato de ambientes temporarios.",
+    "short": "Killi anual de la cuenca baja del Río de la Plata.",
+    "detail": "Se encuentra en Argentina y Uruguay, en la cuenca baja del Río de la Plata. La revisión de 2023 lo ubicó en Titanolebias. Como otros peces anuales sudamericanos, deposita los huevos en el sustrato de ambientes temporarios.",
     "sources": [
       {
         "url": "https://researcharchive.calacademy.org/research/ichthyology/catalog/fishcatget.asp?spid=13594",
@@ -254,7 +270,11 @@
       "license_status": "verified_previous_research",
       "changes": "Redimensionada y comprimida a JPEG."
     },
-    "reviewed_at": "2026-10-12"
+    "reviewed_at": "2026-10-12",
+    "short_en": "An annual killifish from the lower Río de la Plata basin.",
+    "detail_en": "It occurs in Argentina and Uruguay in the lower Río de la Plata basin. The 2023 review placed it in Titanolebias. Like other South American annual fishes, it lays eggs in the substrate of temporary habitats.",
+    "range_en": "Argentina and Uruguay · lower Río de la Plata basin",
+    "cycle_en": "Annual"
   },
   {
     "id": "alexandri",
@@ -271,8 +291,8 @@
     "region": "latinoamerica",
     "range": "Argentina, Brasil y Uruguay · cuenca del río Uruguay",
     "cycle": "Anual",
-    "short": "Cuenca del río Uruguay, con registros en Entre Ríos. Antes: Austrolebias alexandri.",
-    "detail": "Es una especie de la cuenca del río Uruguay, presente en Argentina, Brasil y Uruguay. Los autores de la revisión de 2023 ilustran ejemplares de Entre Ríos. Su nombre actualizado es Matilebias alexandri; las fichas antiguas pueden usar Austrolebias alexandri o Cynolebias alexandri.",
+    "short": "Habita la cuenca del río Uruguay; hay registros en Entre Ríos.",
+    "detail": "Se encuentra en Argentina, Brasil y Uruguay, en la cuenca del río Uruguay. La revisión de 2023 ilustra ejemplares de Entre Ríos. El nombre vigente es Matilebias alexandri; referencias anteriores pueden decir Austrolebias alexandri o Cynolebias alexandri.",
     "sources": [
       {
         "url": "https://sib.gob.ar/especies/matilebias-alexandri",
@@ -305,7 +325,11 @@
       }
     ],
     "photo": null,
-    "reviewed_at": "2026-10-12"
+    "reviewed_at": "2026-10-12",
+    "short_en": "It lives in the Uruguay River basin, with records from Entre Ríos.",
+    "detail_en": "It occurs in Argentina, Brazil and Uruguay in the Uruguay River basin. The 2023 review illustrates specimens from Entre Ríos. The current name is Matilebias alexandri; older references may use Austrolebias alexandri or Cynolebias alexandri.",
+    "range_en": "Argentina, Brazil and Uruguay · Uruguay River basin",
+    "cycle_en": "Annual"
   },
   {
     "id": "paraguayensis",
@@ -320,8 +344,8 @@
     "region": "latinoamerica",
     "range": "Cuenca del río Paraguay · Argentina, Brasil, Bolivia y Paraguay",
     "cycle": "Ciclo por confirmar",
-    "short": "Un Neofundulus de la cuenca del Paraguay, registrado en Argentina.",
-    "detail": "El Sistema de Información de Biodiversidad argentino lo registra como especie autóctona. Su distribución corresponde a la cuenca del río Paraguay e incluye Argentina, Brasil, Bolivia y Paraguay. Neofundulus es un género diferente de Austrolebias; conviene conservar esa distinción al consultar fichas o registrar poblaciones.",
+    "short": "Especie autóctona de Argentina, en la cuenca del río Paraguay.",
+    "detail": "Su distribución corresponde a la cuenca del río Paraguay e incluye Argentina, Brasil, Bolivia y Paraguay. Esta ficha todavía no confirma su ciclo de vida.",
     "sources": [
       {
         "url": "https://sib.gob.ar/especies/neofundulus-paraguayensis",
@@ -350,7 +374,11 @@
         "note": "Distribución4países coincidente con CAS indexado; no pude abrir la ficha por403. No marcar esta afirmación como revisión primaria completa.",
         "url": "https://researcharchive.calacademy.org/research/ichthyology/catalog/fishcatget.asp?spid=14127"
       }
-    ]
+    ],
+    "short_en": "A native Argentine species from the Paraguay River basin.",
+    "detail_en": "Its range follows the Paraguay River basin and includes Argentina, Brazil, Bolivia and Paraguay. This profile does not yet confirm its life cycle.",
+    "range_en": "Paraguay River basin · Argentina, Brazil, Bolivia and Paraguay",
+    "cycle_en": "Cycle unconfirmed"
   },
   {
     "id": "adloffi",
@@ -365,8 +393,8 @@
     "region": "latinoamerica",
     "range": "Sur de Brasil · Rio Grande do Sul",
     "cycle": "Anual",
-    "short": "Una de las especies incluidas en Garcialebias tras la revisión de 2023.",
-    "detail": "Garcialebias adloffi pertenecía al llamado grupo adloffi, antes ubicado en Austrolebias. La revisión de 2023 lo incluye en Garcialebias. La ficha del Museo Nacional de Historia Natural explica el cambio de clasificación.",
+    "short": "La revisión de 2023 ubica esta especie en Garcialebias.",
+    "detail": "Antes se agrupaba en Austrolebias como parte del grupo adloffi. La revisión de 2023 la incluye en Garcialebias.",
     "sources": [
       {
         "url": "https://www.mna.gub.uy/innovaportal/file/3419/1/13.final-espanol.pdf",
@@ -395,7 +423,11 @@
         "field": "range/photo",
         "note": "No pude abrir Commons adloffi. Brasil/Rio Grande do Sul y crédito/licencia actuales quedan pendientes de corroboración específica; eliminado del detalle el origen Porto Alegre de la foto no corroborado. La clasificación2023 sí se verificó."
       }
-    ]
+    ],
+    "short_en": "The 2023 review places this species in Garcialebias.",
+    "detail_en": "It was formerly grouped in Austrolebias as part of the adloffi group. The 2023 review includes it in Garcialebias.",
+    "range_en": "Southern Brazil · Rio Grande do Sul",
+    "cycle_en": "Annual"
   },
   {
     "id": "melanotaenia",
@@ -408,8 +440,8 @@
     "region": "latinoamerica",
     "range": "Sur de Brasil y Uruguay · cuencas costeras atlánticas",
     "cycle": "Anual",
-    "short": "Cuencas costeras del sur de Brasil y Uruguay. Género Cynopoecilus.",
-    "detail": "Está registrado en las cuencas costeras atlánticas del sur de Brasil y Uruguay. Pertenece a Cynopoecilus, un género distinto de Austrolebias y sus grupos derivados. La fotografía muestra un ejemplar de Uruguay.",
+    "short": "Vive en cuencas costeras del sur de Brasil y Uruguay.",
+    "detail": "Se encuentra en cuencas costeras atlánticas del sur de Brasil y Uruguay. La fotografía muestra un ejemplar de Uruguay.",
     "sources": [
       {
         "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4822079/",
@@ -453,7 +485,11 @@
       "license_status": "verified_on_source",
       "changes": "Redimensionada y comprimida a JPEG."
     },
-    "reviewed_at": "2026-10-12"
+    "reviewed_at": "2026-10-12",
+    "short_en": "It lives in coastal basins of southern Brazil and Uruguay.",
+    "detail_en": "It occurs in Atlantic coastal basins of southern Brazil and Uruguay. The photograph shows a specimen from Uruguay.",
+    "range_en": "Southern Brazil and Uruguay · Atlantic coastal basins",
+    "cycle_en": "Annual"
   },
   {
     "id": "queguay",
@@ -466,7 +502,7 @@
     "range": "Uruguay · humedales del río Queguay, Paysandú",
     "cycle": "Anual",
     "short": "Killi anual de los humedales del río Queguay, en Paysandú.",
-    "detail": "Austrolebias queguay fue descrito por Serra y Loureiro en 2018 como un pez anual de la cuenca baja del río Uruguay. La figura de distribución del estudio documenta sus registros en Uruguay. En la revisión de 2023 permanece incluido en Austrolebias.",
+    "detail": "Serra y Loureiro describieron la especie en 2018 como un pez anual de la cuenca baja del río Uruguay. El estudio registra su distribución en Uruguay. La revisión de 2023 la mantiene en Austrolebias.",
     "sources": [
       {
         "url": "https://zenodo.org/records/1734257",
@@ -506,7 +542,11 @@
         "field": "photo",
         "note": "No pude abrir Commons queguay; eliminado del detalle el carácter paratipo de la foto no corroborado. Taxonomía/ciclo/distribución se verificaron en fuentes abiertas."
       }
-    ]
+    ],
+    "short_en": "An annual killifish from the Queguay River wetlands in Paysandú.",
+    "detail_en": "Serra and Loureiro described it in 2018 as an annual fish from the lower Uruguay River basin. The study records its range in Uruguay. The 2023 review keeps it in Austrolebias.",
+    "range_en": "Uruguay · Queguay River wetlands, Paysandú",
+    "cycle_en": "Annual"
   },
   {
     "id": "rachovii",
@@ -518,8 +558,8 @@
     "region": "africa",
     "range": "Mozambique · sudeste de África",
     "cycle": "Anual",
-    "short": "Puestas en sustrato y huevos que atraviesan la estación seca.",
-    "detail": "Nothobranchius rachovii es una especie africana de Mozambique. Su localidad tipo es Beira. Es uno de los Nothobranchius anuales del hobby; la guía enlazada describe el ciclo del género, no una receta de incubación exclusiva para esta especie.",
+    "short": "Killi anual de Mozambique; sus huevos atraviesan la estación seca.",
+    "detail": "Es una especie africana cuya localidad tipo es Beira, Mozambique. Como otros Nothobranchius anuales, sus huevos persisten durante la estación seca. La guía enlazada describe el ciclo del género, no un método exclusivo para esta especie.",
     "sources": [
       {
         "url": "https://researcharchive.calacademy.org/research/ichthyology/catalog/fishcatget.asp?spid=13698",
@@ -557,7 +597,11 @@
         "field": "photo",
         "note": "Hero frontal Hristo Hristov: preservadoasset, licencia pendiente. AlternativasCC encontradas no han sido revisadas visualmente como frontales."
       }
-    ]
+    ],
+    "short_en": "An annual killifish from Mozambique; its eggs survive the dry season.",
+    "detail_en": "This African species has its type locality in Beira, Mozambique. Like other annual Nothobranchius, its eggs persist through the dry season. The linked guide describes the genus’ life cycle, not a method specific to this species.",
+    "range_en": "Mozambique · southeastern Africa",
+    "cycle_en": "Annual"
   },
   {
     "id": "gardneri",
@@ -569,8 +613,8 @@
     "region": "africa",
     "range": "Nigeria · cuencas Cross y Benue",
     "cycle": "Puestas en mopas",
-    "short": "Machos azul verdoso con manchas rojas. Puestas en mopas.",
-    "detail": "La ficha de la forma nominal Fundulopanchax gardneri gardneri documenta poblaciones de Nigeria en las cuencas Cross y Benue. Las guías del hobby pueden reunir bajo gardneri distintas formas y poblaciones; esta ficha conserva el alcance nominal. La experiencia de cría enlazada describe puesta en mopas superiores e inferiores.",
+    "short": "La forma nominal vive en las cuencas Cross y Benue de Nigeria.",
+    "detail": "La forma nominal Fundulopanchax gardneri gardneri está registrada en Nigeria, en las cuencas Cross y Benue. Las guías pueden agrupar bajo gardneri distintas formas y poblaciones. La experiencia de cría enlazada describe la puesta en mopas superiores e inferiores.",
     "sources": [
       {
         "url": "https://researcharchive.calacademy.org/research/ichthyology/catalog/fishcatget.asp?spid=14234",
@@ -608,7 +652,11 @@
         "field": "countries",
         "note": "BKA agrega Camerún y otras formas al conjuntogardneri; patch usa alcance nominal sustentado por AKA/CAS. No sustituir con generalizaciones de todo el complejo."
       }
-    ]
+    ],
+    "short_en": "The nominal form lives in Nigeria’s Cross and Benue basins.",
+    "detail_en": "The nominal form, Fundulopanchax gardneri gardneri, is recorded in Nigeria’s Cross and Benue basins. Guides may group different forms and populations under gardneri. The linked breeding account describes egg laying in upper and lower mops.",
+    "range_en": "Nigeria · Cross and Benue basins",
+    "cycle_en": "Eggs laid in mops"
   },
   {
     "id": "australe",
@@ -622,8 +670,8 @@
     "region": "africa",
     "range": "Gabón, República del Congo y Angola",
     "cycle": "No anual",
-    "short": "Cola de lira. La foto muestra la variedad de acuario gold.",
-    "detail": "Aphyosemion australe se distribuye por Gabón y la República del Congo hacia Angola. La guía de aficionados enlazada describe puesta en plantas y mopas. La fotografía muestra la variedad de acuario gold; la variedad de color no constituye otra especie.",
+    "short": "Killi de cola en forma de lira; la foto muestra la variedad gold.",
+    "detail": "Se distribuye por Gabón y la República del Congo hacia Angola. La guía de aficionados describe la puesta en plantas y mopas. La foto muestra la variedad gold de acuario, que es una forma de color y no otra especie.",
     "sources": [
       {
         "url": "https://researcharchive.calacademy.org/research/ichthyology/catalog/fishcatget.asp?spid=60590",
@@ -655,7 +703,11 @@
       "license_status": "verified_previous_research",
       "changes": "Redimensionada y comprimida a JPEG."
     },
-    "reviewed_at": "2026-10-12"
+    "reviewed_at": "2026-10-12",
+    "short_en": "A killifish with a lyretail; the photo shows the gold variety.",
+    "detail_en": "It ranges from Gabon and the Republic of the Congo to Angola. The hobby guide describes spawning on plants and mops. The photo shows the aquarium gold variety, a color form rather than a separate species.",
+    "range_en": "Gabon, Republic of the Congo and Angola",
+    "cycle_en": "Non-annual"
   },
   {
     "id": "bivittatum",
@@ -671,8 +723,8 @@
     "region": "africa",
     "range": "Nigeria · Camerún",
     "cycle": "Puestas en vegetación",
-    "short": "Arroyos sombreados, vegetación y coloraciones según población.",
-    "detail": "Se encuentra en pequeños cursos de agua de la franja costera entre Nigeria y Camerún. En cría puede poner en plantas y mopas flotantes. También lo vas a encontrar bajo el nombre Chromaphyosemion bivittatum.",
+    "short": "Habita arroyos costeros sombreados de Nigeria y Camerún.",
+    "detail": "Vive en pequeños cursos de agua de la franja costera entre Nigeria y Camerún. En cautividad puede poner huevos en plantas y mopas flotantes. También se conoce como Chromaphyosemion bivittatum.",
     "sources": [
       {
         "url": "https://researcharchive.calacademy.org/research/ichthyology/catalog/fishcatget.asp?spid=32055",
@@ -711,7 +763,11 @@
         "field": "photo",
         "note": "FuenteAKA dice Photo courtesy of Tony Terceira; no licencia explícita ni alternativaCommons localizada."
       }
-    ]
+    ],
+    "short_en": "It lives in shaded coastal streams in Nigeria and Cameroon.",
+    "detail_en": "It lives in small watercourses along the coast between Nigeria and Cameroon. In captivity it may lay eggs among plants and floating mops. It is also known as Chromaphyosemion bivittatum.",
+    "range_en": "Nigeria · Cameroon",
+    "cycle_en": "Eggs laid in vegetation"
   },
   {
     "id": "calvinoi",
@@ -720,8 +776,8 @@
       "Argentina"
     ],
     "region": "latinoamerica",
-    "short": "Un killi gigante del Chaco húmedo, descubierto en el parque y descrito en 2025.",
-    "detail": "Fue encontrado en humedales temporarios del Parque Nacional Chaco y descrito en 2025. Alcanza alrededor de 10 cm de longitud estándar, sin contar la aleta caudal. Su nombre homenajea al ictiólogo Pablo Calviño. Es un pez anual: sus huevos resisten la etapa seca.",
+    "short": "Killi anual descrito en 2025 en el Parque Nacional Chaco.",
+    "detail": "Fue encontrado en humedales temporarios del parque y descrito en 2025. Alcanza unos 10 cm de longitud estándar, sin contar la aleta caudal. Su nombre honra al ictiólogo Pablo Calviño. Sus huevos resisten la etapa seca.",
     "aliases": [],
     "range": "Argentina · Parque Nacional Chaco, cuenca del río Negro",
     "cycle": "Anual",
@@ -758,7 +814,11 @@
       "license_url": "https://creativecommons.org/licenses/by/2.5/ar/",
       "license_status": "verified_on_source",
       "changes": "Comprimido a JPEG; sin alterar el ejemplar."
-    }
+    },
+    "short_en": "An annual killifish described in 2025 from Chaco National Park.",
+    "detail_en": "It was found in temporary wetlands in the park and described in 2025. It reaches about 10 cm in standard length, excluding the tail fin. Its name honors ichthyologist Pablo Calviño. Its eggs survive the dry period.",
+    "range_en": "Argentina · Chaco National Park, Negro River basin",
+    "cycle_en": "Annual"
   },
   {
     "id": "patriciae",
@@ -768,8 +828,8 @@
       "Paraguay"
     ],
     "region": "latinoamerica",
-    "short": "Un anual chaqueño, hoy ubicado en Amatolebias, con machos de aletas moteadas y prolongaciones visibles.",
-    "detail": "Está registrado en Argentina y Paraguay, en la cuenca del río Paraguay. Es uno de los peces anuales del Chaco oriental. La revisión de 2023 lo ubica en Amatolebias. La fotografía muestra un macho vivo de la localidad tipo, con sus aletas moteadas.",
+    "short": "Pez anual del Chaco oriental, ubicado en Amatolebias.",
+    "detail": "Se registra en Argentina y Paraguay, en la cuenca del río Paraguay. La revisión de 2023 lo ubica en Amatolebias. La fotografía muestra un macho vivo de la localidad tipo, con aletas moteadas.",
     "aliases": [
       "Austrolebias patriciae",
       "Cynolebias patriciae"
@@ -819,7 +879,11 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "license_status": "verified_on_source",
       "changes": "Recorte del panel D de la figura 1; redimensionado y comprimido a JPEG."
-    }
+    },
+    "short_en": "An annual fish from the eastern Chaco, placed in Amatolebias.",
+    "detail_en": "It is recorded in Argentina and Paraguay in the Paraguay River basin. The 2023 review places it in Amatolebias. The photograph shows a live male from the type locality, with spotted fins.",
+    "range_en": "Argentina and Paraguay · Paraguay River basin, eastern Chaco",
+    "cycle_en": "Annual"
   },
   {
     "id": "vandenbergi",
@@ -830,8 +894,8 @@
       "Bolivia"
     ],
     "region": "latinoamerica",
-    "short": "Un anual del Chaco semiárido, con registros argentinos de Salta, Chaco y Formosa.",
-    "detail": "Su distribución pertenece al Chaco semiárido, en Argentina, Paraguay y Bolivia. El estudio de 2016 documentó registros de Salta, Chaco y Formosa y corrigió atribuciones antiguas a Corrientes. El macho fotografiado procede de la cuenca del Bermejo, en Salta. Sigue ubicado en Austrolebias.",
+    "short": "Killi anual del Chaco semiárido, con registros en tres provincias argentinas.",
+    "detail": "Se distribuye por el Chaco semiárido de Argentina, Paraguay y Bolivia. El estudio de 2016 documenta registros argentinos de Salta, Chaco y Formosa, y corrige antiguas atribuciones a Corrientes. El macho fotografiado procede de la cuenca del Bermejo, en Salta.",
     "aliases": [
       "Cynolebias vandenbergi"
     ],
@@ -880,7 +944,11 @@
       "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "license_status": "verified_on_source",
       "changes": "Recorte del panel C de la figura 5; comprimido a JPEG. Este recorte conserva CC BY-NC-SA 4.0."
-    }
+    },
+    "short_en": "An annual killifish from the semi-arid Chaco, recorded in three Argentine provinces.",
+    "detail_en": "It ranges across the semi-arid Chaco of Argentina, Paraguay and Bolivia. A 2016 study documents Argentine records from Salta, Chaco and Formosa, and corrects older records attributed to Corrientes. The photographed male is from the Bermejo basin in Salta.",
+    "range_en": "Argentina, Paraguay and Bolivia · semi-arid Chaco",
+    "cycle_en": "Annual"
   },
   {
     "id": "monstrosus",
@@ -891,8 +959,8 @@
       "Bolivia"
     ],
     "region": "latinoamerica",
-    "short": "Un gigante del Chaco semiárido: la foto muestra un macho de la cuenca del Bermejo salteño.",
-    "detail": "Es un killi anual del Chaco semiárido, presente en Argentina, Paraguay y Bolivia. El estudio de 2016 revisó su distribución y corrigió registros atribuidos erróneamente a Corrientes. El macho fotografiado proviene del Bermejo, en Salta. Su nombre actualizado es Titanolebias monstrosus.",
+    "short": "Killi anual grande del Chaco semiárido; la foto muestra un macho de Salta.",
+    "detail": "Se encuentra en Argentina, Paraguay y Bolivia. El estudio de 2016 revisó su distribución y corrigió registros atribuidos erróneamente a Corrientes. El macho fotografiado procede de la cuenca del Bermejo, en Salta.",
     "aliases": [
       "Austrolebias monstrosus",
       "Cynolebias monstrosus",
@@ -943,7 +1011,11 @@
       "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "license_status": "verified_on_source",
       "changes": "Recorte del panel E de la figura 5; comprimido a JPEG. Este recorte conserva CC BY-NC-SA 4.0."
-    }
+    },
+    "short_en": "A large annual killifish from the semi-arid Chaco; the photo shows a male from Salta.",
+    "detail_en": "It occurs in Argentina, Paraguay and Bolivia. A 2016 study revised its range and corrected records mistakenly attributed to Corrientes. The photographed male is from the Bermejo basin in Salta.",
+    "range_en": "Argentina, Paraguay and Bolivia · semi-arid Chaco",
+    "cycle_en": "Annual"
   },
   {
     "id": "balzanii",
@@ -955,8 +1027,8 @@
       "Paraguay"
     ],
     "region": "latinoamerica",
-    "short": "Un anual del Chaco oriental, documentado en el Parque Nacional Río Pilcomayo, Formosa.",
-    "detail": "Está documentado en el Parque Nacional Río Pilcomayo y sus alrededores, en Formosa. Su distribución abarca la cuenca del río Paraguay, en Argentina, Brasil, Bolivia y Paraguay. Pertenece a Trigonectes, otro género de killis anuales. La ficha amplía el recorrido hacia los humedales chaqueños.",
+    "short": "Killi anual documentado en el Parque Nacional Río Pilcomayo, Formosa.",
+    "detail": "Se ha registrado en el parque y sus alrededores, en Formosa. Su distribución abarca la cuenca del río Paraguay en Argentina, Brasil, Bolivia y Paraguay.",
     "aliases": [
       "Haplochilus balzanii"
     ],
@@ -1004,7 +1076,11 @@
         "note": "Figura 69, espécimen fotografiado sobre una mano; no se incorpora como imagen visible.",
         "url": "https://commons.wikimedia.org/wiki/File:Fish_fauna_from_R%C3%ADo_Pilcomayo_National_Park_(6_of_7).png"
       }
-    ]
+    ],
+    "short_en": "An annual killifish recorded in Río Pilcomayo National Park, Formosa.",
+    "detail_en": "It has been recorded in the park and its surroundings in Formosa. Its range covers the Paraguay River basin in Argentina, Brazil, Bolivia and Paraguay.",
+    "range_en": "Argentina, Brazil, Bolivia and Paraguay · Paraguay River basin",
+    "cycle_en": "Annual"
   },
   {
     "id": "robustus",
@@ -1013,8 +1089,8 @@
       "Argentina"
     ],
     "region": "latinoamerica",
-    "short": "Un anual bonaerense, actualmente llamado Cypholebias robustus: nonoiuliensis es uno de sus nombres históricos.",
-    "detail": "Está registrado en Argentina y en la revisión de 2023 aparece asociado a cuencas del Río de la Plata y de la costa bonaerense. Ese trabajo ubica la especie en Cypholebias y trata nonoiuliensis como un sinónimo. Es parte de los killis estacionales de nuestra región.",
+    "short": "Killi anual bonaerense; nonoiuliensis es un nombre histórico asociado.",
+    "detail": "Se registra en Argentina, en las cuencas del Río de la Plata y la costa bonaerense. La revisión de 2023 lo ubica en Cypholebias y trata nonoiuliensis como sinónimo.",
     "aliases": [
       "Austrolebias robustus",
       "Cynolebias robustus",
@@ -1057,7 +1133,11 @@
         "verification": "opened"
       }
     ],
-    "photo": null
+    "photo": null,
+    "short_en": "An annual killifish from Buenos Aires Province; nonoiuliensis is a historical associated name.",
+    "detail_en": "It is recorded in Argentina in the Río de la Plata basin and along the Buenos Aires coast. The 2023 review places it in Cypholebias and treats nonoiuliensis as a synonym.",
+    "range_en": "Argentina · Buenos Aires Province, Río de la Plata basin and Atlantic coast",
+    "cycle_en": "Annual"
   },
   {
     "id": "playfairii",
@@ -1066,8 +1146,8 @@
       "Seychelles"
     ],
     "region": "africa",
-    "short": "Un killi del océano Índico, presente en cursos de agua de las Seychelles.",
-    "detail": "Vive en cursos de agua de las islas Seychelles, incluidos ambientes de agua dulce y salobre. El género también reúne especies de Madagascar, pero playfairii tiene su origen en Seychelles. La BKA lo incluye entre los killis no anuales.",
+    "short": "Killi de cursos de agua de las Seychelles.",
+    "detail": "Vive en cursos de agua de las islas Seychelles, tanto de agua dulce como salobre. Aunque el género también incluye especies de Madagascar, esta especie procede de Seychelles. Se clasifica como no anual.",
     "aliases": [
       "Pachypanchax playfairi",
       "Haplochilus playfairii"
@@ -1120,7 +1200,11 @@
         "note": "Hold: Commons declara own work por KillisBS, pero fotografía incorpora ©Marvin Keimp y no hay perfil que confirme identidad; no incorporar al sitio.",
         "url": "https://commons.wikimedia.org/wiki/File:Pachypanchax_playfairii_SEY_05,_La_Digue.jpg"
       }
-    ]
+    ],
+    "short_en": "A killifish from streams in the Seychelles.",
+    "detail_en": "It lives in freshwater and brackish streams on the Seychelles islands. Although the genus also includes species from Madagascar, this species is native to the Seychelles. It is classified as non-annual.",
+    "range_en": "Seychelles",
+    "cycle_en": "Non-annual"
   },
   {
     "id": "annulatus",
@@ -1131,8 +1215,8 @@
       "Sierra Leona"
     ],
     "region": "africa",
-    "short": "Bandas claras y oscuras; un pequeño killi que frecuenta la superficie.",
-    "detail": "La BKA describe poblaciones de Sierra Leona y Monrovia en aguas someras y pantanosas. Puede poner en mopas y plantas flotantes; sus huevos y alevines son muy pequeños. Pseudepiplatys annulatus es otro nombre usado en el hobby.",
+    "short": "Pequeño killi de bandas claras y oscuras que frecuenta la superficie.",
+    "detail": "Se registra en aguas someras y pantanosas de Sierra Leona y Monrovia. Puede poner huevos en mopas y plantas flotantes; los huevos y alevines son muy pequeños. Pseudepiplatys annulatus es otro nombre usado en el hobby.",
     "aliases": [
       "Pseudepiplatys annulatus",
       "Haplochilus annulatus",
@@ -1181,7 +1265,12 @@
       "license_status": "verified_on_source",
       "changes": "Redimensionada y comprimida a JPEG; sin recorte añadido",
       "note": "Macho fotografiado bajo la superficie"
-    }
+    },
+    "short_en": "A small, light-and-dark-banded killifish that stays near the surface.",
+    "detail_en": "It is recorded in shallow, marshy waters in Sierra Leone and Monrovia. It may lay eggs in mops and floating plants; the eggs and fry are very small. Pseudepiplatys annulatus is another name used in the hobby.",
+    "range_en": "Guinea · Liberia · Sierra Leone",
+    "cycle_en": "Non-annual",
+    "photo_note_en": "Male photographed below the water surface"
   },
   {
     "id": "guentheri",
@@ -1190,8 +1279,8 @@
       "Tanzania"
     ],
     "region": "africa",
-    "short": "De las aguas estacionales de Unguja, en el archipiélago de Zanzíbar.",
-    "detail": "La revisión de WildNothos limita su distribución natural a charcas estacionales y humedales de Unguja, Tanzania. Describe su ciclo como semianual y el desarrollo de los huevos en turba en cautividad. Las antiguas referencias que incluían otras poblaciones bajo guentheri deben leerse con cuidado.",
+    "short": "Vive en humedales estacionales de Unguja, en Zanzíbar.",
+    "detail": "Su distribución natural se limita a charcas estacionales y humedales de Unguja, Tanzania. Su ciclo es semianual; en cautividad, los huevos se desarrollan en turba. Referencias antiguas pueden incluir otras poblaciones bajo este nombre.",
     "aliases": [
       "Fundulus guentheri",
       "Redtail notho"
@@ -1238,7 +1327,12 @@
       "license_status": "verified_on_source",
       "changes": "Redimensionada y comprimida a JPEG; sin recorte añadido",
       "note": "Fotografía etiquetada como N. guentheri en el zoológico Higashiyama; identificación del archivo, no espécimen con código de población"
-    }
+    },
+    "short_en": "It lives in seasonal wetlands on Unguja, in Zanzibar.",
+    "detail_en": "Its natural range is limited to seasonal pools and wetlands on Unguja, Tanzania. Its cycle is semi-annual; in captivity, the eggs develop in peat. Older references may include other populations under this name.",
+    "range_en": "Tanzania · Unguja, Zanzibar",
+    "cycle_en": "Semi-annual",
+    "photo_note_en": "Photo labeled N. guentheri at Higashiyama Zoo; file identification, not a specimen with a population code"
   },
   {
     "id": "lineatus",
@@ -1248,8 +1342,8 @@
       "Sri Lanka"
     ],
     "region": "asia",
-    "short": "Un panchax de superficie del sur de Asia; también existe una variedad dorada.",
-    "detail": "La BKA lo registra en India y Sri Lanka, asociado a arroyos y canales. Busca alimento en la superficie y deposita huevos entre plantas flotantes o mopas. La imagen muestra la variedad dorada de acuario, no la coloración silvestre.",
+    "short": "Panchax de superficie del sur de Asia; existe una variedad dorada.",
+    "detail": "Se registra en India y Sri Lanka, en arroyos y canales. Busca alimento cerca de la superficie y deposita huevos entre plantas flotantes o mopas. La imagen muestra la variedad dorada de acuario, no la coloración silvestre.",
     "aliases": [
       "Panchax lineatum",
       "Golden Wonder",
@@ -1297,7 +1391,12 @@
       "license_status": "verified_on_source",
       "changes": "Redimensionada y comprimida a JPEG; sin recorte añadido",
       "note": "Macho variedad dorada de acuario"
-    }
+    },
+    "short_en": "A surface-dwelling panchax from South Asia; a golden variety exists.",
+    "detail_en": "It is recorded in India and Sri Lanka, in streams and canals. It feeds near the surface and lays eggs among floating plants or mops. The image shows the aquarium golden variety, not the wild coloration.",
+    "range_en": "India · Sri Lanka",
+    "cycle_en": "Non-annual",
+    "photo_note_en": "Male of the golden aquarium variety"
   },
   {
     "id": "panchax",
@@ -1309,8 +1408,8 @@
       "Tailandia"
     ],
     "region": "asia",
-    "short": "Un panchax asiático que se mantiene cerca de la superficie.",
-    "detail": "Su distribución incluye India y parte del sudeste asiático. La BKA describe puesta entre plantas próximas a la superficie o en mopas flotantes y variación de color según el origen. Conviene conservar el dato de población cuando se conoce.",
+    "short": "Panchax asiático que se mantiene cerca de la superficie.",
+    "detail": "Su distribución incluye India y partes del sudeste asiático. Puede poner huevos entre plantas cercanas a la superficie o en mopas flotantes. Su coloración varía según el origen.",
     "aliases": [
       "Blue panchax",
       "Panchax azul"
@@ -1357,6 +1456,11 @@
       "license_status": "verified_on_source",
       "changes": "Redimensionada y comprimida a JPEG; sin recorte añadido",
       "note": "Fotografía real evaluada como Quality Image en Commons"
-    }
+    },
+    "short_en": "An Asian panchax that stays near the water surface.",
+    "detail_en": "Its range includes India and parts of Southeast Asia. It may lay eggs among plants near the surface or in floating mops. Its coloration varies by location.",
+    "range_en": "India · Myanmar · Malaysia · Thailand",
+    "cycle_en": "Non-annual",
+    "photo_note_en": "Photograph assessed as a Quality Image on Commons"
   }
 ]

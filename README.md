@@ -37,12 +37,14 @@ Referencias: [configuración por archivo](https://docs.railway.com/config-as-cod
 
 - `public/index.html`: contenido, diseño y navegación del front.
 - `data/species.json`: base de especies, afirmaciones respaldadas por fuentes, fecha de revisión, sinónimos y derechos de fotografías.
-- `scripts/build-catalog.mjs`: genera catálogo y créditos desde la base, sin dependencias. Ejecutar `node scripts/build-catalog.mjs` después de editar los datos.
+- `scripts/build-catalog.mjs`: genera catálogo y créditos desde la base, sin dependencias. Después de editar los datos, ejecutar `node scripts/build-catalog.mjs` y luego `node scripts/build-language.mjs`.
 - `public/assets/`: fotografías; el hash del nombre permite cachearlas sin conservar versiones viejas al actualizarlas.
 - `server.mjs`: servidor HTTP de Node, sin frameworks.
 - `Dockerfile` y `railway.json`: despliegue.
 - `tests/server.test.mjs`: comprobaciones HTTP y de los archivos publicados.
 - `tests/ui.test.mjs`: comprobaciones de navegación, estructura, filtros y contraste.
+- `data/i18n.json` y `scripts/build-language.mjs`: textos bilingües integrados en el HTML. El selector ES/EN cambia la vista actual sin navegar ni recargar y recuerda el idioma en este navegador.
+- `tests/language.test.mjs`: cambio de idioma y traducciones del catálogo.
 - `tests/catalog.test.mjs`: integridad de fichas, fuentes y fotografías.
 
 ## Estado del proyecto

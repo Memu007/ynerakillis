@@ -13,9 +13,9 @@ function entry(item) {
   return `<article class="species-entry${image ? '' : ' text-species'}" data-species-id="${escape(item.id)}" data-region="${escape(item.region)}" data-countries="${escape(item.countries.join('|'))}" data-search="${escape(search)}">${image ? '' : '<span class="text-species-note">Ficha documentada · fotografía pendiente</span>'}<figure>${image}<figcaption><div class="species-place">${escape(item.range)}</div><h3>${escape(item.name)}</h3><span class="species-type">${escape(item.cycle)}</span><p>${escape(item.short)}</p></figcaption></figure><details class="species-details"><summary>Ver ficha</summary><p>${escape(item.detail)}</p>${alias}${photo?.note ? `<p class="species-photo-note">Fotografía: ${escape(photo.note)}</p>` : ''}${sources}</details>${image ? link(photo.page_url, `Foto: ${photo.author}`, 'species-credit') : ''}</article>`;
 }
 const groups = [
-  ['argentina', 'Argentina', 'Especies con presencia documentada en el país.', item => item.countries.includes('Argentina')],
+  ['argentina', 'Argentina', 'Especies registradas en Argentina.', item => item.countries.includes('Argentina')],
   ['latinoamerica', 'Otras de Latinoamérica', 'Especies de los humedales y cuencas de la región.', item => item.region === 'latinoamerica' && !item.countries.includes('Argentina')],
-  ['africa', 'África e islas del Índico', 'Killis de ambientes estacionales y aguas permanentes.', item => item.region === 'africa'],
+  ['africa', 'África e islas del Índico', 'Especies de charcos temporarios y de aguas permanentes.', item => item.region === 'africa'],
   ['asia', 'Asia', 'Una selección de killis asiáticos.', item => item.region === 'asia']
 ].map(([key, title, description, match]) => {
   const items = catalog.filter(match);
