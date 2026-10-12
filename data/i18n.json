@@ -48,7 +48,6 @@
   "01 / ESPECIES": "01 / SPECIES",
   "Killis de Argentina": "Killifish from Argentina",
   "y del mundo.": "and beyond.",
-  "Explorá 25 especies. Buscá por nombre o país y abrí las fichas para leer más. Los lugares indicados son registros confirmados; puede haber otros.": "Explore 25 species. Search by name or country and open a profile to learn more. The locations shown are confirmed records; others may exist.",
   "Buscar una especie": "Find a species",
   "Nombre, sinónimo o país": "Name, synonym or country",
   "Todas": "All",
@@ -213,5 +212,6 @@
   "Tema de ejemplo para el foro.\n\n¿Qué datos anotás en cada bolsa? ¿Qué etiquetas resisten la humedad?\n\nLas respuestas todavía no están habilitadas en esta vista previa.": "Sample forum topic.\n\nWhat information do you write on each bag? Which labels resist moisture?\n\nReplies are not available in this demo yet.",
   "Fotografía real de un Nothobranchius rachovii de frente, con ambos ojos y las aletas abiertas. Foto de Hristo Hristov.": "Front-facing photograph of a Nothobranchius rachovii, showing both eyes and spread fins. Photo by Hristo Hristov.",
   "Un proyecto sobre killis.": "A project about killifish.",
-  "Filtrar especies": "Filter species"
+  "Filtrar especies": "Filter species",
+  "Buscá una especie por nombre o país y abrí su ficha para leer más. Los lugares indicados son registros confirmados; puede haber otros.": "Search for a species by name or country and open its profile to learn more. The locations shown are confirmed records; others may exist."
 }

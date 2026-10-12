@@ -5,7 +5,7 @@ const root = new URL('../', import.meta.url);
 const catalog = JSON.parse(readFileSync(new URL('data/species.json', root), 'utf8'));
 const html = readFileSync(new URL('public/index.html', root), 'utf8');
 test('cada ficha publicada conserva fuentes, identificación y estado fotográfico', () => {
-  assert.equal(catalog.length, 25);
+  assert.equal(catalog.length, 33);
   assert.equal(new Set(catalog.map(item => item.id)).size, catalog.length);
   assert.equal(catalog.filter(item => item.countries.includes('Argentina')).length, 13);
   const published = [...html.matchAll(/data-species-id="([^"]+)"/g)].map(match => match[1]);
@@ -28,5 +28,7 @@ test('cada ficha publicada conserva fuentes, identificación y estado fotográfi
   }
   assert.equal(catalog.find(item => item.id === 'playfairii').photo, null);
   assert.equal(catalog.find(item => item.id === 'balzanii').photo, null);
+  assert.equal(catalog.find(item => item.id === 'luteoflammulatus').photo, null);
+  assert.equal(catalog.find(item => item.id === 'paranaensis').cycle, 'Ciclo por confirmar');
   assert.deepEqual(catalog.find(item => item.id === 'rachovii').countries, ['Mozambique']);
 });

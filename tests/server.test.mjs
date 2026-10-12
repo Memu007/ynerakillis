@@ -29,7 +29,7 @@ test('HTTP: front, imágenes, healthcheck y archivos privados', async () => {
     assert.equal(health.status, 200);
     assert.deepEqual(await health.json(), { status: 'ok' });
     const assetNames = readdirSync(new URL('../public/assets/', import.meta.url));
-    assert.equal(assetNames.length, 20);
+    assert.equal(assetNames.length, 21);
     for (const name of assetNames) {
       const file = readFileSync(new URL('../public/assets/' + name, import.meta.url));
       assert(name.includes(createHash('sha256').update(file).digest('hex').slice(0, 12)));
@@ -47,7 +47,7 @@ test('HTTP: front, imágenes, healthcheck y archivos privados', async () => {
     assert.equal(post.headers.get('allow'), 'GET, HEAD');
     assert.equal((await fetch(url + '/favicon.ico')).status, 204);
     const sources = [...html.toString().matchAll(/<img[^>]+src="([^"]+)"/g)].map(m => m[1]);
-    assert.equal(sources.length, 24);
+    assert.equal(sources.length, 25);
     assert(sources.every(src => assetNames.includes(src.replace('/assets/', ''))));
   } finally {
     await new Promise(resolve => server.close(resolve));

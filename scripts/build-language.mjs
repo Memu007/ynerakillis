@@ -8,13 +8,14 @@ for (const item of catalog) {
     translations[item[field]] = item[field + '_en'];
   }
   if (item.aliases.length) translations[`También aparece como: ${item.aliases.join(' · ')}.`] = `Also listed as: ${item.aliases.join(' · ')}.`;
+  for (const source of item.sources) if (source.label_en) translations[source.label + ' ↗'] = source.label_en + ' ↗';
   if (item.photo) {
-    const author = translations[item.photo.author] || item.photo.author;
+    const author = item.photo.author_en || translations[item.photo.author] || item.photo.author;
     translations[`Foto: ${item.photo.author}`] = `Photo: ${author}`;
     translations[`${item.name}. Foto de ${item.photo.author}.`] = `${item.name}. Photo by ${author}.`;
-    if (item.photo.note) translations[`Fotografía: ${item.photo.note}`] = `Photograph: ${item.photo_note_en}`;
+    if (item.photo.note) translations[`Fotografía: ${item.photo.note}`] = `Photograph: ${(item.photo_note_en || item.photo.note_en)}`;
     const changes = item.photo.changes || 'Redimensionada y comprimida.';
-    const translatedChanges = translations[changes] || changes;
+    const translatedChanges = item.photo.changes_en || translations[changes] || changes;
     translations[`· ${changes}`] = `· ${translatedChanges}`;
     if (!item.photo.license) translations[`· Permiso de reutilización por verificar · ${changes}`] = `· Reuse permission not yet verified · ${translatedChanges}`;
   }

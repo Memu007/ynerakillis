@@ -378,7 +378,7 @@
     "short_en": "A native Argentine species from the Paraguay River basin.",
     "detail_en": "Its range follows the Paraguay River basin and includes Argentina, Brazil, Bolivia and Paraguay. This profile does not yet confirm its life cycle.",
     "range_en": "Paraguay River basin · Argentina, Brazil, Bolivia and Paraguay",
-    "cycle_en": "Cycle unconfirmed"
+    "cycle_en": "Cycle not yet confirmed here"
   },
   {
     "id": "adloffi",
@@ -1462,5 +1462,415 @@
     "range_en": "India · Myanmar · Malaysia · Thailand",
     "cycle_en": "Non-annual",
     "photo_note_en": "Photograph assessed as a Quality Image on Commons"
+  },
+  {
+    "id": "paranaensis",
+    "name": "Argolebias paranaensis",
+    "aliases": [
+      "Austrolebias paranaensis"
+    ],
+    "countries": [
+      "Paraguay"
+    ],
+    "region": "latinoamerica",
+    "range": "Ayolas, sur de Paraguay · localidad conocida",
+    "cycle": "Ciclo por confirmar",
+    "short": "Conocido solo por ejemplares preservados de Ayolas.",
+    "detail": "La revisión de 2023 solo documenta ejemplares preservados de Ayolas, Paraguay. No describe su coloración en vida. Esta ficha todavía no confirma su ciclo de vida.",
+    "short_en": "Known only from preserved specimens collected at Ayolas.",
+    "detail_en": "The 2023 review only documents preserved specimens from Ayolas, Paraguay. It does not describe their live coloration. This profile does not yet confirm the species’ life cycle.",
+    "range_en": "Ayolas, southern Paraguay · known locality",
+    "cycle_en": "Cycle not yet confirmed here",
+    "sources": [
+      {
+        "url": "https://www.mna.gub.uy/innovaportal/file/3419/1/13.final-english.pdf",
+        "label": "Serra et al. 2023 · MNHN",
+        "label_en": "Serra et al. 2023 · MNHN",
+        "claims": [
+          "Argolebias paranaensis is assigned to the genus and is known only from original preserved specimens collected over 40 years ago in Ayolas, southern Paraguay; live coloration is unknown and there are no DNA sequences."
+        ],
+        "verification": "opened",
+        "verified_at": "2026-10-12",
+        "locator": "p. 5"
+      }
+    ],
+    "photo": null,
+    "reviewed_at": "2026-10-12"
+  },
+  {
+    "id": "charrua",
+    "name": "Garcialebias charrua",
+    "aliases": [
+      "Austrolebias charrua"
+    ],
+    "countries": [
+      "Uruguay"
+    ],
+    "region": "latinoamerica",
+    "range": "Rocha, Uruguay · región costera atlántica",
+    "cycle": "Anual",
+    "short": "Killi anual registrado en Rocha, Uruguay.",
+    "detail": "Especie anual registrada en Rocha, Uruguay. La revisión de 2023 la ubica en Garcialebias; antes se conocía como Austrolebias charrua.",
+    "short_en": "An annual killifish recorded in Rocha, Uruguay.",
+    "detail_en": "An annual species recorded in Rocha, Uruguay. The 2023 review places it in Garcialebias; it was formerly known as Austrolebias charrua.",
+    "range_en": "Rocha, Uruguay · Atlantic coastal region",
+    "cycle_en": "Annual",
+    "sources": [
+      {
+        "url": "https://www.mna.gub.uy/innovaportal/file/3419/1/13.final-english.pdf",
+        "label": "Serra et al. 2023 · MNHN",
+        "label_en": "Serra et al. 2023 · MNHN",
+        "claims": [
+          "The review uses Garcialebias charrua and identifies pictured specimens from Rocha, Uruguay; it describes the genus range across Uruguay and southern Brazil."
+        ],
+        "verification": "opened",
+        "verified_at": "2026-10-12",
+        "locator": "pp. 20–21"
+      },
+      {
+        "url": "https://onlinelibrary.wiley.com/doi/10.1002/aqc.3727",
+        "label": "Loureiro et al. · nuevo registro de A. charrua",
+        "label_en": "Loureiro et al. · new record of A. charrua",
+        "claims": [
+          "A study documents a population of Austrolebias charrua in the lower Maldonado stream basin, Uruguay."
+        ],
+        "verification": "explicitindexonly",
+        "verified_at": "2026-10-12"
+      }
+    ],
+    "photo": null,
+    "reviewed_at": "2026-10-12"
+  },
+  {
+    "id": "luteoflammulatus",
+    "name": "Acantholebias luteoflammulatus",
+    "aliases": [
+      "Austrolebias luteoflammulatus",
+      "Cynolebias luteoflammulatus"
+    ],
+    "countries": [
+      "Uruguay"
+    ],
+    "region": "latinoamerica",
+    "range": "Rocha, Uruguay · cuencas atlánticas orientales",
+    "cycle": "Anual",
+    "short": "Killi anual registrado en Uruguay.",
+    "detail": "La revisión de 2023 documenta ejemplares de Rocha, Uruguay, y reconoce el nombre Acantholebias luteoflammulatus. Antes se ubicaba en Austrolebias.",
+    "short_en": "An annual killifish recorded in Uruguay.",
+    "detail_en": "The 2023 review documents specimens from Rocha, Uruguay, and recognizes the name Acantholebias luteoflammulatus. It was previously placed in Austrolebias.",
+    "range_en": "Rocha, Uruguay · eastern Atlantic basins",
+    "cycle_en": "Annual",
+    "sources": [
+      {
+        "url": "https://www.mna.gub.uy/innovaportal/file/3419/1/13.final-english.pdf",
+        "label": "Serra et al. 2023 · MNHN",
+        "label_en": "Serra et al. 2023 · MNHN",
+        "claims": [
+          "Adopts Acantholebias luteoflammulatus as the current name; figure caption documents specimens from Rocha, Uruguay."
+        ],
+        "verification": "opened",
+        "verified_at": "2026-10-12",
+        "locator": "pp. 13–14"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Austrolebias_luteoflammulatus.jpg",
+        "label": "Wikimedia Commons · W.S. Serra",
+        "label_en": "Wikimedia Commons · W.S. Serra",
+        "claims": [
+          "File description identifies the photographed fish as Austrolebias luteoflammulatus and gives Vergara, Treinta y Tres, Uruguay as location."
+        ],
+        "verification": "opened",
+        "verified_at": "2026-10-12",
+        "locator": "file summary"
+      }
+    ],
+    "photo": null,
+    "reviewed_at": "2026-10-12",
+    "review_notes": [
+      {
+        "field": "photo",
+        "note": "La foto identificada de Vergara, Treinta y Tres, Uruguay, muestra el pez sobre una mano y no se usa en la ficha. No corresponde a los ejemplares de Rocha ilustrados en la revisión.",
+        "url": "https://commons.wikimedia.org/wiki/File:Austrolebias_luteoflammulatus.jpg"
+      }
+    ]
+  },
+  {
+    "id": "vazferreirai",
+    "name": "Cypholebias vazferreirai",
+    "aliases": [
+      "Austrolebias vazferreirai",
+      "Cynolebias vazferreirai"
+    ],
+    "countries": [
+      "Uruguay",
+      "Brasil"
+    ],
+    "region": "latinoamerica",
+    "range": "Uruguay y Rio Grande do Sul, Brasil",
+    "cycle": "Anual",
+    "short": "Killi anual de cuencas de Uruguay y sur de Brasil.",
+    "detail": "Es un killi anual de Uruguay y el sur de Brasil, hoy ubicado en Cypholebias. Un estudio de 2010 documentó su primer registro en Rio Grande do Sul, usando el nombre Austrolebias vazferreirai.",
+    "short_en": "An annual killifish from basins in Uruguay and southern Brazil.",
+    "detail_en": "It is an annual killifish from Uruguay and southern Brazil, now placed in Cypholebias. A 2010 study documented its first record in Rio Grande do Sul under the name Austrolebias vazferreirai.",
+    "range_en": "Uruguay and Rio Grande do Sul, Brazil",
+    "cycle_en": "Annual",
+    "sources": [
+      {
+        "url": "https://www.mna.gub.uy/innovaportal/file/3419/1/13.final-english.pdf",
+        "label": "Serra et al. 2023 · MNHN",
+        "label_en": "Serra et al. 2023 · MNHN",
+        "claims": [
+          "Reviews generic classification of the Austrolebias group and includes Cypholebias in the current generic structure."
+        ],
+        "verification": "opened",
+        "verified_at": "2026-10-12",
+        "locator": "pp. 5, 19–20"
+      },
+      {
+        "url": "https://academic.oup.com/zoolinnean/article/199/1/280/7222101",
+        "label": "Alonso et al. 2023 · revisión filogenética",
+        "label_en": "Alonso et al. 2023 · phylogenetic revision",
+        "claims": [
+          "Raises the former Cypholebias subgenus to genus rank and uses Cypholebias vazferreirai."
+        ],
+        "verification": "explicitindexonly",
+        "verified_at": "2026-10-12"
+      },
+      {
+        "url": "https://www.aka.org/aka-country-uruguay/?view=list",
+        "label": "American Killifish Association · localidades",
+        "label_en": "American Killifish Association · locations",
+        "claims": [
+          "Lists Cypholebias vazferreirai in Uruguay; locality listings include Melo and Bañados de Conventos."
+        ],
+        "verification": "opened",
+        "verified_at": "2026-10-12"
+      },
+      {
+        "url": "https://www.biotaxa.org/cl/article/view/6.4.592",
+        "label": "Cheffe, Volcan y Lanés 2010 · registro en Brasil",
+        "label_en": "Cheffe, Volcan and Lanés 2010 · Brazil record",
+        "claims": [
+          "El estudio documenta el primer registro del pez anual Austrolebias vazferreirai en Rio Grande do Sul, Brasil."
+        ],
+        "verification": "opened",
+        "verified_at": "2026-10-12",
+        "locator": "Resumen; volumen 6(4), 2010"
+      }
+    ],
+    "photo": null,
+    "reviewed_at": "2026-10-12"
+  },
+  {
+    "id": "nematolebias-whitei",
+    "name": "Nematolebias whitei",
+    "aliases": [
+      "Cynolebias whitei",
+      "Simpsonichthys whitei",
+      "Rio pearlfish",
+      "White's pearlfish"
+    ],
+    "countries": [
+      "Brasil"
+    ],
+    "region": "latinoamerica",
+    "range": "Llanuras costeras del estado de Río de Janeiro, Brasil · cuencas de Araruama, das Ostras y río São João",
+    "cycle": "Anual",
+    "short": "Habita charcas estacionales de las llanuras costeras de Río de Janeiro.",
+    "detail": "Las charcas donde vive pueden secarse dos veces al año. Los adultos mueren al secarse el agua, mientras los embriones permanecen en diapausa en el suelo hasta que vuelve la inundación. Acuaristas de la BKA describen su puesta en turba y arena.",
+    "short_en": "It lives in seasonal pools on the coastal plains of Rio de Janeiro.",
+    "detail_en": "Its pools can dry out twice a year. Adults die when the water dries, while embryos remain in diapause in the soil until the pools are flooded again. BKA aquarists describe spawning it in peat and sand.",
+    "range_en": "Coastal plains of Rio de Janeiro state, Brazil · Araruama and das Ostras basins, and the São João River",
+    "cycle_en": "Annual",
+    "sources": [
+      {
+        "url": "https://researcharchive.calacademy.org/research/ichthyology/catalog/fishcatget.asp?spid=13600",
+        "label": "CAS · Eschmeyer's Catalog of Fishes",
+        "label_en": "CAS · Eschmeyer's Catalog of Fishes",
+        "claims": [
+          "Current valid name Nematolebias whitei; distribution in the Araruama basin, das Ostras River basin, and coastal plain by the São João mouth, Rio de Janeiro, Brazil."
+        ],
+        "verification": "opened",
+        "verified_at": "2026-10-12",
+        "locator": "lines 16–18"
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8982402/",
+        "label": "Thompson et al. 2022 · Genome of the Rio Pearlfish",
+        "label_en": "Thompson et al. 2022 · Genome of the Rio Pearlfish",
+        "claims": [
+          "Calls N. whitei bi-annual; seasonal pools in Rio de Janeiro dry twice yearly; embryos enter diapause in soil and hatch after inundation."
+        ],
+        "verification": "opened",
+        "verified_at": "2026-10-12",
+        "locator": "abstract and introduction, lines 98–110"
+      },
+      {
+        "url": "https://killis.org.uk/nematolebias-whitei/",
+        "label": "British Killifish Association · Nematolebias whitei husbandry account",
+        "label_en": "British Killifish Association · Nematolebias whitei husbandry account",
+        "claims": [
+          "A direct keeper account reports this species as annual and describes spawning in peat or silver sand, then collecting and drying eggs in peat."
+        ],
+        "verification": "opened",
+        "verified_at": "2026-10-12",
+        "locator": "Habitat and Breeding, lines 37 and 44–45"
+      }
+    ],
+    "reviewed_at": "2026-10-12",
+    "photo": null
+  },
+  {
+    "id": "hypsolebias-magnificus",
+    "name": "Hypsolebias magnificus",
+    "aliases": [
+      "Cynolebias magnificus",
+      "Simpsonichthys magnificus"
+    ],
+    "countries": [
+      "Brasil"
+    ],
+    "region": "latinoamerica",
+    "range": "Cuenca media del río São Francisco · Bahía y Minas Gerais, Brasil",
+    "cycle": "Estacional",
+    "short": "Killi estacional de las llanuras de inundación del São Francisco medio.",
+    "detail": "Su distribución conocida abarca la cuenca media del São Francisco en Bahía y Minas Gerais. La especie forma parte del complejo de killis estacionales de la Caatinga; su localidad tipo está en la llanura de la margen derecha del río, cerca de Manga, Minas Gerais.",
+    "short_en": "A seasonal killifish from the middle São Francisco floodplains.",
+    "detail_en": "Its known range covers the middle São Francisco basin in Bahia and Minas Gerais. The species belongs to the Caatinga seasonal-killifish complex; its type locality is on the river's right-bank plain near Manga, Minas Gerais.",
+    "range_en": "Middle São Francisco River basin · Bahia and Minas Gerais, Brazil",
+    "cycle_en": "Seasonal",
+    "sources": [
+      {
+        "url": "https://researcharchive.calacademy.org/research/ichthyology/catalog/fishcatget.asp?spid=60063",
+        "label": "CAS · Eschmeyer's Catalog of Fishes",
+        "label_en": "CAS · Eschmeyer's Catalog of Fishes",
+        "claims": [
+          "Current valid name Hypsolebias magnificus; distribution in the middle São Francisco basin, Bahia and Minas Gerais; type locality near Manga, Minas Gerais."
+        ],
+        "verification": "opened",
+        "verified_at": "2026-10-12",
+        "locator": "lines 16–18"
+      },
+      {
+        "url": "https://zookeys.pensoft.net/article/25058/",
+        "label": "Costa, Amorim & Mattos 2018 · ZooKeys species-complex revision",
+        "label_en": "Costa, Amorim & Mattos 2018 · ZooKeys species-complex revision",
+        "claims": [
+          "The H. magnificus species complex is a group of seasonal killifishes endemic to the middle and southern Caatinga, including floodplains of the middle São Francisco and nearby tributaries."
+        ],
+        "verification": "opened",
+        "verified_at": "2026-10-12",
+        "locator": "abstract"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Hypsolebias_magnificus_male_2.png",
+        "label": "Wikimedia Commons · fotografía de un macho de H. magnificus",
+        "label_en": "Wikimedia Commons · photograph of a male H. magnificus",
+        "claims": [
+          "File page identifies the fish as a male H. magnificus from Malhada and records author Andrew Bogott and CC BY-SA 4.0."
+        ],
+        "verification": "opened",
+        "verified_at": "2026-10-12",
+        "locator": "summary and licensing, lines 121–142"
+      }
+    ],
+    "reviewed_at": "2026-10-12",
+    "photo": {
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Hypsolebias_magnificus_male_2.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Hypsolebias_magnificus_male_2.png",
+      "author": "Andrew Bogott",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "license_status": "verified_on_source",
+      "changes": "Redimensionada y comprimida a JPEG; sin recorte añadido.",
+      "changes_en": "Resized and compressed as JPEG; no additional cropping.",
+      "note": "La página del archivo identifica al ejemplar como macho de H. magnificus de Malhada.",
+      "note_en": "The file page identifies the specimen as a male H. magnificus from Malhada.",
+      "asset": "/assets/hypsolebias-magnificus.911282248298.jpg"
+    }
+  },
+  {
+    "id": "millerichthys-robustus",
+    "name": "Millerichthys robustus",
+    "aliases": [
+      "Mexican rivulus",
+      "Rivulus robustus"
+    ],
+    "countries": [
+      "México"
+    ],
+    "region": "latinoamerica",
+    "range": "Cuencas de los ríos Papaloapan y Coatzacoalcos · Veracruz y Oaxaca, México",
+    "cycle": "Anual",
+    "short": "Killi anual endémico de las cuencas mexicanas del Papaloapan y Coatzacoalcos.",
+    "detail": "Vive en charcas temporales de Veracruz y Oaxaca. El ciclo anual acompaña las fases locales de inundación y sequía: los embriones pasan por diapausas en el sustrato y eclosionan cuando vuelve el agua.",
+    "short_en": "An annual killifish endemic to Mexico's Papaloapan and Coatzacoalcos basins.",
+    "detail_en": "It lives in temporary pools in Veracruz and Oaxaca. Its annual cycle follows local flood and drought periods: embryos pass through diapause stages in the substrate and hatch when water returns.",
+    "range_en": "Papaloapan and Coatzacoalcos river basins · Veracruz and Oaxaca, Mexico",
+    "cycle_en": "Annual",
+    "sources": [
+      {
+        "url": "https://anatomypubs.onlinelibrary.wiley.com/doi/10.1002/dvdy.24519",
+        "label": "Domínguez-Castanedo, Valdesalici & Rosales-Torres 2017 · developmental ecology",
+        "label_en": "Domínguez-Castanedo, Valdesalici & Rosales-Torres 2017 · developmental ecology",
+        "claims": [
+          "Identifies M. robustus as an annual killifish endemic to Papaloapan and Coatzacoalcos basins in Veracruz and Oaxaca; describes seasonal flood, drought, and humidity periods and embryo diapause."
+        ],
+        "verification": "opened",
+        "verified_at": "2026-10-12",
+        "locator": "sections Environmental Characteristics and annual environmental variation, lines 122–156"
+      }
+    ],
+    "reviewed_at": "2026-10-12",
+    "photo": null
+  },
+  {
+    "id": "anablepsoides-hartii",
+    "name": "Anablepsoides hartii",
+    "aliases": [
+      "Rivulus hartii",
+      "Rivulus harti",
+      "Hart's rivulus",
+      "guabina saltadora"
+    ],
+    "countries": [
+      "Venezuela",
+      "Trinidad y Tobago"
+    ],
+    "region": "latinoamerica",
+    "range": "Sur de las Antillas y norte de Sudamérica · Venezuela, Trinidad y Tobago, Aruba, Curazao, Margarita y Paria",
+    "cycle": "No anual",
+    "short": "Killi no anual de arroyos caribeños de Venezuela y las Antillas del sur.",
+    "detail": "Se registra en arroyos costeros de Venezuela, tributarios del Orinoco y algunas islas del sur del Caribe. Es no anual. Las referencias antiguas pueden usar el nombre Rivulus hartii.",
+    "short_en": "A non-annual killifish from Caribbean streams in Venezuela and the southern islands.",
+    "detail_en": "It is recorded in Venezuelan coastal streams, Orinoco tributaries and some southern Caribbean islands. It is non-annual. Older references may use the name Rivulus hartii.",
+    "range_en": "Southern Caribbean islands and northern South America · Venezuela, Trinidad and Tobago, Aruba, Curaçao, Margarita, and Paria",
+    "cycle_en": "Non-annual",
+    "sources": [
+      {
+        "url": "https://researcharchive.calacademy.org/research/ichthyology/catalog/fishcatget.asp?spid=13637",
+        "label": "CAS · Eschmeyer's Catalog of Fishes",
+        "label_en": "CAS · Eschmeyer's Catalog of Fishes",
+        "claims": [
+          "Current valid name Anablepsoides hartii; distribution includes Caribbean coastal river drainages, Trinidad and Tobago, and Venezuela."
+        ],
+        "verification": "explicitindexonly",
+        "verified_at": "2026-10-12",
+        "locator": "Search-index excerpt; direct open returned HTTP 403"
+      },
+      {
+        "url": "https://www.scielo.sa.cr/scielo.php?pid=S0034-77442018000100293&script=sci_arttext",
+        "label": "Infante-Rivero 2018 · Revista de Biología Tropical",
+        "label_en": "Infante-Rivero 2018 · Revista de Biología Tropical",
+        "claims": [
+          "Identifies A. hartii as non-annual; gives range across Aruba, Curaçao, Trinidad and Tobago, Margarita, Paria, Venezuelan Caribbean coastal rivers and Orinoco; discusses transfer from Rivulus to Anablepsoides."
+        ],
+        "verification": "opened",
+        "verified_at": "2026-10-12",
+        "locator": "lines 67–84"
+      }
+    ],
+    "reviewed_at": "2026-10-12",
+    "photo": null
   }
 ]

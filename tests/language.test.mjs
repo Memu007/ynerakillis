@@ -33,7 +33,7 @@ test('ES/EN cambia textos y accesibilidad conservando la sección y los datos', 
   assert.equal(menuLabel.textContent, 'Menú');
   assert.equal(updates, 2);
 });
-test('las 25 fichas tienen traducción y el selector aparece arriba en ambas vistas', () => {
+test('las 33 fichas tienen traducción y el selector aparece arriba en ambas vistas', () => {
   const catalog = JSON.parse(readFileSync(new URL('../data/species.json', import.meta.url), 'utf8'));
   const translations = JSON.parse(script.match(/const translations=(\{[^\n]+\});/)[1]);
   for (const item of catalog) for (const field of ['short', 'detail', 'range', 'cycle']) {
