@@ -2,7 +2,9 @@
 
 Front de un proyecto amateur, sin fines comerciales, para aficionados a los killis.
 
-La landing explica el proyecto y abre cinco secciones independientes: especies, ciclos de vida, cría, cuaderno de poblaciones y foro. Incluye seis especies con fotografías reales, filtros por región y fuentes enlazadas. El hero conserva el acercamiento del rachovii con el scroll.
+La landing explica el proyecto y abre cinco secciones independientes: especies, ciclos de vida, cría, cuaderno de poblaciones y foro. El menú aparece después del hero y queda fijo al llegar al borde superior. La bienvenida presenta el proyecto, una muestra regional y accesos a las secciones. El hero conserva el acercamiento del rachovii con el scroll.
+
+El catálogo incluye 14 especies: 7 con presencia argentina, 3 de otras zonas de Latinoamérica y 4 africanas. Tiene 12 fichas con fotografías reales y 2 fichas documentadas sin foto. Las especies están agrupadas por procedencia, con búsqueda por nombre actual, sinónimo o país, filtros y fuentes enlazadas. El filtro Latinoamérica incluye también las especies argentinas.
 
 ## Ejecutar
 
@@ -36,6 +38,7 @@ Referencias: [configuración por archivo](https://docs.railway.com/config-as-cod
 - `server.mjs`: servidor HTTP de Node, sin frameworks.
 - `Dockerfile` y `railway.json`: despliegue.
 - `tests/server.test.mjs`: comprobaciones HTTP y de los archivos publicados.
+- `tests/ui.test.mjs`: comprobaciones de navegación, estructura, filtros y contraste.
 
 ## Estado del proyecto
 
