@@ -38,8 +38,10 @@ test('búsqueda por países/sinónimos y filtros Argentina/Latinoamérica',()=>{
 
 test('el catálogo tiene grupos ordenados y fichas reales diferenciadas',()=>{
   const body=html.slice(html.indexOf('<body'),html.indexOf('<script>'));
-  assert(body.indexOf('data-group="argentina"')<body.indexOf('data-group="latinoamerica"'));
-  assert(body.indexOf('data-group="latinoamerica"')<body.indexOf('data-group="africa"'));
+  const groups=[...body.matchAll(/class="catalog-group"[^>]*data-genus="([^"]+)"/g)].map(match=>match[1]);
+  assert(groups.length>10);
+  assert.deepEqual(groups,[...groups].sort((a,b)=>a.localeCompare(b,'en')));
+  assert(body.includes('id="species-genus"'));
   assert((body.match(/class="species-entry/g)||[]).length>=12);
   assert(body.includes('id="species-empty"'));
   assert(!body.includes('<strong>Registrar una puesta</strong>'));
@@ -64,4 +66,26 @@ test('el pez se acerca al hacer scroll también en celular, sin ocultar el texto
   for(const state of [start,middle,end]){assert.equal(state.copyOpacity,1);assert.equal(state.footerOpacity,1);assert.equal(state.fishOpacity,1);assert.equal(state.x,0)}
   assert.equal(context.swimState(2,390,844).scale,end.scale);
   assert.equal(context.swimState(-1,390,844).scale,start.scale);
+});
+
+test('el filtro por género se combina con país y búsqueda, y oculta grupos vacíos',()=>{
+  const entries=[
+    {dataset:{genus:'Argolebias',region:'latinoamerica',countries:'Argentina',search:'Argolebias guarani Argentina'}},
+    {dataset:{genus:'Argolebias',region:'latinoamerica',countries:'Paraguay',search:'Argolebias paranaensis Paraguay'}},
+    {dataset:{genus:'Austrolebias',region:'latinoamerica',countries:'Argentina|Uruguay',search:'Austrolebias bellottii Argentina Uruguay'}}
+  ];
+  const counters=[{},{}];
+  const groups=[entries.slice(0,2),entries.slice(2)].map((items,index)=>({querySelectorAll:()=>items,querySelector:()=>counters[index]}));
+  const count={},empty={};
+  const context={language:'es',speciesRegion:'argentina',speciesQuery:{value:''},genusQuery:{value:'Argolebias'},document:{querySelectorAll:selector=>selector==='.species-entry'?entries:selector==='.catalog-group'?groups:[],getElementById:id=>id==='species-count'?count:empty}};
+  vm.createContext(context);
+  vm.runInContext(script.match(/const normalizeSpecies=[^\n]+/)[0]+script.match(/function matchesSpecies\([\s\S]*?\n}/)[0]+script.match(/function updateSpecies\([\s\S]*?\n}/)[0],context);
+  context.updateSpecies();
+  assert.deepEqual(entries.map(item=>item.hidden),[false,true,true]);
+  assert.equal(count.textContent,'1 especie');
+  assert.equal(groups[1].hidden,true);
+  context.speciesQuery.value='inexistente';context.updateSpecies();
+  assert.equal(empty.hidden,false);assert(groups.every(group=>group.hidden));
+  context.speciesQuery.value='';context.genusQuery.value='todos';context.speciesRegion='todos';context.language='en';context.updateSpecies();
+  assert.equal(count.textContent,'3 species');assert(groups.every(group=>!group.hidden));
 });

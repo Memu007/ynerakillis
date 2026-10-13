@@ -10,6 +10,7 @@ for (const item of catalog) {
   if (item.aliases.length) translations[`También aparece como: ${item.aliases.join(' · ')}.`] = `Also listed as: ${item.aliases.join(' · ')}.`;
   for (const source of item.sources) if (source.label_en) translations[source.label + ' ↗'] = source.label_en + ' ↗';
   if (item.photo) {
+    if (item.photo.license_en) translations[item.photo.license] = item.photo.license_en;
     const author = item.photo.author_en || translations[item.photo.author] || item.photo.author;
     translations[`Foto: ${item.photo.author}`] = `Photo: ${author}`;
     translations[`${item.name}. Foto de ${item.photo.author}.`] = `${item.name}. Photo by ${author}.`;

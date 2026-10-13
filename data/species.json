@@ -322,9 +322,32 @@
         "verified_at": "2026-10-12",
         "verification": "opened",
         "locator": "p. 8, figura 5"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Matilebias_alexandri.jpg",
+        "label": "Fotografía · identificación y licencia",
+        "label_en": "Photograph · identification and licence",
+        "claims": [
+          "La ficha del archivo identifica la especie fotografiada, su autor y los términos de reutilización."
+        ],
+        "verification": "opened",
+        "verified_at": "2026-10-13"
       }
     ],
-    "photo": null,
+    "photo": {
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Matilebias_alexandri.jpg",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Matilebias_alexandri.jpg",
+      "author": "Sebastián Serra (W.S.Serra)",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "license_status": "verified_on_source",
+      "changes": "Redimensionada y comprimida a JPEG; sin recorte añadido.",
+      "changes_en": "Resized and compressed as JPEG; no additional cropping.",
+      "note": "La ficha de Commons identifica un macho de Matilebias alexandri y declara obra propia de W.S.Serra; la leyenda sitúa al ejemplar en Río Negro, Uruguay.",
+      "note_en": "The Commons page identifies a male Matilebias alexandri and declares W.S.Serra’s own work; the caption places the specimen in Río Negro, Uruguay.",
+      "asset": "/assets/alexandri.8b8eb042bd86.jpg",
+      "verified_at": "2026-10-13"
+    },
     "reviewed_at": "2026-10-12",
     "short_en": "It lives in the Uruguay River basin, with records from Entre Ríos.",
     "detail_en": "It occurs in Argentina, Brazil and Uruguay in the Uruguay River basin. The 2023 review illustrates specimens from Entre Ríos. The current name is Matilebias alexandri; older references may use Austrolebias alexandri or Cynolebias alexandri.",
@@ -364,9 +387,33 @@
         ],
         "verified_at": "2026-10-12",
         "verification": "search_index_only; direct_page_403"
+      },
+      {
+        "url": "https://es.wikipedia.org/wiki/Archivo:Neofundulus_paraguayensis_Ogun_Marcelino_AAK_12-03.jpg",
+        "label": "Fotografía · identificación y licencia",
+        "label_en": "Photograph · identification and licence",
+        "claims": [
+          "La ficha del archivo identifica la especie fotografiada, su autor y los términos de reutilización."
+        ],
+        "verification": "opened",
+        "verified_at": "2026-10-13"
       }
     ],
-    "photo": null,
+    "photo": {
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Neofundulus_paraguayensis_Ogun_Marcelino_AAK_12-03.jpg",
+      "page_url": "https://es.wikipedia.org/wiki/Archivo:Neofundulus_paraguayensis_Ogun_Marcelino_AAK_12-03.jpg",
+      "author": "Guyvir",
+      "license": "Dominio público · cesión del autor",
+      "license_url": "https://commons.wikimedia.org/wiki/Template:PD-user-w",
+      "license_status": "verified_on_source",
+      "changes": "Redimensionada de 1023 × 682 a 1000 × 667 y comprimida a JPEG.",
+      "changes_en": "Resized from 1023 × 682 to 1000 × 667 and compressed as JPEG.",
+      "note": "La fuente identifica este ejemplar como Neofundulus paraguayensis «Ogun Marcelino AAK 12-03».",
+      "note_en": "The source identifies this specimen as Neofundulus paraguayensis “Ogun Marcelino AAK 12-03”.",
+      "license_en": "Public domain · dedication by the author",
+      "asset": "/assets/paraguayensis.b2d3dc6b83b9.jpg",
+      "verified_at": "2026-10-13"
+    },
     "reviewed_at": "2026-10-12",
     "review_notes": [
       {
@@ -1656,9 +1703,32 @@
         "verification": "opened",
         "verified_at": "2026-10-12",
         "locator": "Resumen; volumen 6(4), 2010"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Austrolebias_vazferreirai.jpg",
+        "label": "Fotografía · identificación y licencia",
+        "label_en": "Photograph · identification and licence",
+        "claims": [
+          "La ficha del archivo identifica la especie fotografiada, su autor y los términos de reutilización."
+        ],
+        "verification": "opened",
+        "verified_at": "2026-10-13"
       }
     ],
-    "photo": null,
+    "photo": {
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Austrolebias_vazferreirai.jpg",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Austrolebias_vazferreirai.jpg",
+      "author": "Wilson Sebastián Serra Alanis (W.S.Serra)",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "license_status": "verified_on_source",
+      "changes": "Redimensionada y comprimida a JPEG; sin recorte añadido.",
+      "changes_en": "Resized and compressed as JPEG; no additional cropping.",
+      "note": "La ficha de Commons identifica la imagen como Austrolebias vazferreirai, combinación taxonómica anterior de Cypholebias vazferreirai; es obra propia de W.S.Serra.",
+      "note_en": "The Commons page identifies the image as Austrolebias vazferreirai, an earlier combination for Cypholebias vazferreirai; it is W.S.Serra’s own work.",
+      "asset": "/assets/vazferreirai.5286d77deb1d.jpg",
+      "verified_at": "2026-10-13"
+    },
     "reviewed_at": "2026-10-12"
   },
   {
