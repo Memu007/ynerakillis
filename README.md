@@ -4,7 +4,7 @@ Front de un proyecto amateur, sin fines comerciales, para aficionados a los kill
 
 La landing explica el proyecto y abre cinco secciones independientes: especies, ciclos de vida, cría, cuaderno de poblaciones y foro. El menú aparece después del hero y queda fijo al llegar al borde superior. La bienvenida presenta el proyecto, una muestra regional y accesos a las secciones. El hero conserva el acercamiento del rachovii con el scroll.
 
-El catálogo incluye 33 especies: 13 con presencia argentina, 11 de otras zonas de Latinoamérica, 7 africanas o de islas del Índico y 2 asiáticas. Tiene 24 fichas con fotografías reales y 9 fichas sin foto. Las especies están agrupadas por género, en orden alfabético. Incluye selector de género, búsqueda por nombre actual, sinónimo o país, filtros regionales combinables y fuentes por ficha. Latinoamérica incluye también Argentina. Los países mostrados son registros documentados y la lista puede no ser exhaustiva.
+El catálogo incluye 33 especies: 13 con presencia argentina, 11 de otras zonas de Latinoamérica, 7 africanas o de islas del Índico y 2 asiáticas. Tiene 24 fichas con fotografías reales y 9 fichas sin foto. Las especies están agrupadas por género, en orden alfabético, con encabezados destacados y un índice para saltar a cada grupo. Incluye selector de género, búsqueda por nombre actual, sinónimo o país, filtros regionales combinables y fuentes por ficha. Latinoamérica incluye también Argentina. Los países mostrados son registros documentados y la lista puede no ser exhaustiva.
 
 En celular, el hero usa una composición en columna: el pez se acerca con el scroll dentro de su espacio, sin tapar ni desvanecer el texto; el menú organiza seis secciones en dos columnas y conserva una descripción para cada una.
 

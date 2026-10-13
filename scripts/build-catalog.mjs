@@ -18,11 +18,16 @@ const groups = genera.map(genus => {
   const items = catalog.filter(item => item.name.split(' ')[0] === genus).sort((a, b) => a.name.localeCompare(b.name, 'en'));
   const photos = items.filter(item => item.photo?.asset);
   const notes = items.filter(item => !item.photo?.asset);
-  return `<section class="catalog-group" data-group="${key}" data-genus="${escape(genus)}" aria-labelledby="group-${key}"><div class="catalog-group-head"><h2 id="group-${key}">${escape(genus)}</h2><p class="genus-count">${items.length} ${items.length === 1 ? 'especie' : 'especies'}</p></div><div class="species-grid">${photos.map(entry).join('')}</div>${notes.length ? `<div class="catalog-notes">${notes.map(entry).join('')}</div>` : ''}</section>`;
+  return `<section class="catalog-group" data-group="${key}" data-genus="${escape(genus)}" aria-labelledby="group-${key}"><div class="catalog-group-head"><span class="group-label">Género</span><h2 id="group-${key}">${escape(genus)}</h2><p class="genus-count">${items.length} ${items.length === 1 ? 'especie' : 'especies'}</p></div>${photos.length ? `<div class="species-grid">${photos.map(entry).join('')}</div>` : ''}${notes.length ? `<div class="catalog-notes">${notes.map(entry).join('')}</div>` : ''}</section>`;
 }).join('\n');
 const page = new URL('public/index.html', root);
 let html = readFileSync(page, 'utf8');
 html = html.replace(/(<select id="species-genus">)[\s\S]*?(<\/select>)/, (_, start, end) => start + '<option value="todos">Todos los géneros</option>' + genera.map(genus => `<option value="${escape(genus)}">${escape(genus)}</option>`).join('') + end);
+const indexStart = html.indexOf('<!-- genus-index:start -->');
+const indexEnd = html.indexOf('<!-- genus-index:end -->');
+if (indexStart < 0 || indexEnd < indexStart) throw new Error('No se encontró el índice de géneros');
+const index = `<details class="genus-index"><summary>Explorar los géneros</summary><p>Elegí un nombre para ir a su grupo de especies.</p><div class="genus-links">${genera.map(genus => `<button type="button" data-genus-jump="${escape(genus)}">${escape(genus)} <span aria-hidden="true">↓</span></button>`).join('')}</div></details>`;
+html = html.slice(0, indexStart) + '<!-- genus-index:start -->' + index + html.slice(indexEnd);
 const start = html.indexOf('<!-- catalog:start -->');
 const end = html.indexOf('<!-- catalog:end -->');
 if (start < 0 || end < start) throw new Error('No se encontraron los marcadores del catálogo');
